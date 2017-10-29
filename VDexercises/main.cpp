@@ -1,7 +1,7 @@
-#include "exercises.h"
 #include <iostream>
 #include "exercise1.h"
 #include "exercise3.h"
+#include "exercise4.h"
 
 
 int main()
@@ -23,12 +23,13 @@ int main()
 			Exercise3().run();
 			break;
 		case 4:
-			//Exercise4().run();
+			Exercise4().run();
 			break;
 		case 0:
 			stillRunning = false;
 			break;
 		}
 	}
+	std::cout << " Bye..";
 	return 0;
 }

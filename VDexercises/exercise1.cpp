@@ -23,7 +23,7 @@ void wait_for_key(); // Programm halts until keypress
 void Exercise1::run()
 {
 	// if path-variable for gnuplot is not set, do it with:
-	 Gnuplot::set_GNUPlotPath("D:/Programs/gnuplot/bin");
+	 Gnuplot::set_GNUPlotPath("C:/sw/gnuplot/binary");
 	// set a special standard terminal for showonscreen (normally not needed),
 	//   e.g. Mac users who want to use x11 instead of aqua terminal:
 	// Gnuplot::set_terminal_std("x11");

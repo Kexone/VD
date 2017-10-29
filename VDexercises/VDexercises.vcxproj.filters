@@ -30,6 +30,9 @@
     <ClCompile Include="exercise3.cpp">
       <Filter>Source Files\exercises</Filter>
     </ClCompile>
+    <ClCompile Include="exercise4.cpp">
+      <Filter>Source Files\exercises</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercises.h">
@@ -43,6 +46,9 @@
     </ClInclude>
     <ClInclude Include="utils.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise4.h">
+      <Filter>Header Files\exercises</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

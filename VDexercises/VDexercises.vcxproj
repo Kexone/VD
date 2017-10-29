@@ -151,11 +151,13 @@
   <ItemGroup>
     <ClCompile Include="exercise1.cpp" />
     <ClCompile Include="exercise3.cpp" />
+    <ClCompile Include="exercise4.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercise1.h" />
     <ClInclude Include="exercise3.h" />
+    <ClInclude Include="exercise4.h" />
     <ClInclude Include="exercises.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
