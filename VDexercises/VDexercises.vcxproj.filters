@@ -33,6 +33,12 @@
     <ClCompile Include="exercise4.cpp">
       <Filter>Source Files\exercises</Filter>
     </ClCompile>
+    <ClCompile Include="exercise5.cpp">
+      <Filter>Source Files\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise6.cpp">
+      <Filter>Source Files\exercises</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="exercises.h">
@@ -48,6 +54,18 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="exercise4.h">
+      <Filter>Header Files\exercises</Filter>
+    </ClInclude>
+    <ClInclude Include="gnuPlot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise5.h">
+      <Filter>Header Files\exercises</Filter>
+    </ClInclude>
+    <ClInclude Include="syntheticDepth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise6.h">
       <Filter>Header Files\exercises</Filter>
     </ClInclude>
   </ItemGroup>

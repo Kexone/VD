@@ -6,16 +6,8 @@
 #include <random>
 #include "utils.h"
 
-float gaussian(float x, float y, float A = 1.0f, float x0 = 0, float y0 = 0, float spreadX = 1.5f, float spreadY = 1.5f) {
-	return A * std::exp(-(
-		(Utils::sqr<float>(x - x0) / (2 * Utils::sqr<float>(spreadX))) +
-		(Utils::sqr<float>(y - y0) / (2 * Utils::sqr<float>(spreadY)))
-		));
-}
-
-void Exercise3::run()
+void Exercise3::run(int i)
 {
-	cv::Size standardSize(800, 640);
 	cv::Mat sample_points(N, gd, CV_32F);
 	cv::Mat sample_values(N, 1, CV_32F);
 
@@ -30,7 +22,8 @@ void Exercise3::run()
 		float y = disY(gen);
 
 		sample_points.at<cv::Vec2f>(i,0) = cv::Vec2f(x, y);
-		sample_values.at<float>(i) = gaussian(x, y);
+		sample_values.at<float>(i) = 1.0f  * std::exp(-((Utils::sqr<float>(x - 0) / (2 * Utils::sqr<float>(1.5f))) +
+			(Utils::sqr<float>(y - 0) / (2 * Utils::sqr<float>(1.5f))) ));
 	}
 
 	cv::flann::KDTreeIndexParams index;
@@ -40,8 +33,8 @@ void Exercise3::run()
 	cv::Mat query(1, gd, CV_32F);
 	cv::Mat indices(N, 1, CV_32S);
 	cv::Mat dist(N, 1, CV_32F);
-	cv::Mat recons(standardSize, CV_32FC3);
-	cv::Mat nearest(standardSize, CV_32FC3);
+	cv::Mat recons(cv::Size(640, 480), CV_32FC3);
+	cv::Mat nearest(cv::Size(640, 480), CV_32FC3);
 
 	for (int x = 0; x < recons.rows; x++)
 	{
@@ -64,8 +57,8 @@ void Exercise3::run()
 				W += w;
 			}
 
-			nearest.at <cv::Vec3f>(x, y) = cv::Vec3f(0, sample_values.at<float>(indices.at<int>(0)), 1.f);
-			recons.at<cv::Vec3f>(x, y) = cv::Vec3f(0, WP / W, 1.f);
+			nearest.at <cv::Vec3f>(x, y) = cv::Vec3f(0.f, sample_values.at<float>(indices.at<int>(0)), 0.f);
+			recons.at<cv::Vec3f>(x, y) = cv::Vec3f(0, WP / W, 0.f);
 		}
 	}
 

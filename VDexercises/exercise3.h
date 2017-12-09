@@ -4,7 +4,7 @@
 class Exercise3 : public Exercises
 {
 public:
-	void run() override;
+	void run(int i = 0) override;
 
 private:
 	const int N = 300; // number of samples

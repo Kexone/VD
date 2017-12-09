@@ -4,5 +4,6 @@
 class Exercise4 : public Exercises
 {
 public:
-	void run() override;
+	void run(int i = 0) override;
+private:
 };
