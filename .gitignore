@@ -1,0 +1,13 @@
+
+*.iobj
+*.lastbuildstate
+*.exe
+*.obj
+*.tlog
+*.pch
+*.pdb
+*.dll
+*.ipch
+*.log
+*.ipdb
+VDexercises/.vs/VDexercises/v14/.suo
