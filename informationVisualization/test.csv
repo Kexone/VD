@@ -1,35 +1,1374 @@
 date,name,quantity,kcal,protein,carbohydrates,sugar,fat
-1001,Active křehké rohlíčky s celozrnnou moukou Bonavita,3x 12g,142,3.6,24.84,2.52,2.412
-0901,Apple ,23 g,242,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,16,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.3,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,15,3.2,24.84,2.52,2.412
-0827,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,14,3.1,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0826,Potato ,120 g,12,3.5,24.84,2.52,2.412
-0822,Potato ,120 g,13,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0825,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0823,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0824,Potato ,12 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,20 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,10 g,12,3.6,24.84,2.52,2.412
-0822,Potato ,120 g,12,3.6,24.84,2.52,2.412
+0701,Jacobs Velvet,150x 1ml,4,,,,
+0701,Losos atlantský čerstvý podkova,1x porce (250 g),355,49.5,,,15.75
+0701,brambory vařené bez slupky,1x 50g,33,0.665,7.805,3,0.04
+0701,ořechy vlašské (walnuts) Alesto,30x 1g,214,4.65,1.11,0.9,20.73
+0701,Jumbo peanuts pražené arašídy neloupané,50x 1g,316,13.25,4.7,2.25,26.75
+0701,Eidam sýr 30 % tuku. plátkový,1x kus (16.7 g),44,4.509,0.301,0.167,2.622
+0701,Orbit profesional white žvýkačka  bez cukru,1x kus (1 g),1,,0.592,,
+0701,mléko polotučné trvanlivé 1.5% Pilos,50x 1ml,23,1.65,2.45,2.45,0.75
+0701,Nescafé káva classic,1x 4 g,5,0.28,0.36,0.36,0.008
+0701,paprika bílá,127x 1g,20,1.27,5.08,,
+0701,rajčata,113x 1g,25,1.085,4.599,3.242,0.26
+0701,"tuňák ve vlastní šťávě Sun &amp, Sea",1x 56g,67,14.56,,,0.84
+0701,vejce slepičí na tvrdo,1x 60g,90,7.548,0.672,,6.366
+0701,ledový salát,167x 1g,27,1.169,3.34,2.939,0.501
+0701,okurka salátová,138x 1g,19,1.132,3.146,2.035,0.248
+0701,Royal šunka krůtí Dulano,5x kus (5 g),26,5,0.25,,0.5
+0801,káva espresso,75x 1ml,3,0.15,,,0.3
+0801,Latte macchiato,1x 250 ml,108,3.5,16.75,16,3
+0801,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0801,tvaroh polotučný Albert Quality,1x balení (250 g),230,25,11,9.75,9.5
+0801,Tortilla wraps plain z Lidlu,1x kus (60 g),201,5.58,32.52,0.78,4.8
+0801,hovězí roštěná,1x porce (100 g),159,13.4,1,,8
+0801,zelenina čerstvá rajčata. okurka. ledový salát,1x 100g,21,0.8,3.2,0.2,
+0801,dijonska hořčice Boneco,1x lžíčka (12 g),18,0.84,0.972,0.192,1.068
+0801,majonéza průměr,1x 10 g,66,0.17,0.27,0.15,7.12
+0801,olivy černé,3x kus (3 g),13,0.288,0.18,,1.305
+0801,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0801,ořechy mandle neloupané,1x porce (10 g),64,2.041,1.861,0.42,5.344
+0801,ořechy mandle neloupané,7x 1g,45,1.429,1.303,0.294,3.741
+0901,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0901,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0901,coleslaw salát,175x 1g,198,,6.825,,19.25
+0901,kuřecí maso dušené,150x 1g,255,40.935,,,10.065
+0901,Kešu nesolené nepražené ALESTO,7.6x 1g,46,1.429,1.756,0.585,3.572
+0901,rýžový nápoj kokos YOSOY,250x 1ml,151,0.75,29.25,14,3.25
+0901,rajčata cherry,54.8x 1g,12,0.493,1.973,1.425,0.11
+0901,chléb žitno slunečnicový celozrnný Fit den Penam,1x větší plátek (56 g),139,4.48,18.48,2.24,4.2
+0901,sardinky ve vlastní štávě Giana,1x balení (90 g),123,15.3,0.63,0.09,6.66
+0901,řecký jogurt bílý 0% tuku Milko,200x 1g,115,20,7,5.4,0.6
+0901,100% mandlové máslo křupavé Grizly,10x 1g,58,2.5,0.7,0.4,5.6
+0901,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+1001,MiXit vlastní mix ( ovesné vločky. lupínky křupavé. mandle. kokosové lupínky. para ořechy. kávová zrna. vlašské ořechy),35x 1g,152,5.516,18.914,0.441,6.825
+1001,mléko polotučné trvanlivé 1.5% Pilos,50x 1ml,23,1.65,2.45,2.45,0.75
+1001,bramborová kaše s mlékem a máslem,150x 1g,169,2.805,25.155,,6.33
+1001,kuřecí smažený řízek,150x 1g,558,32.888,44.818,1.47,27.47
+1001,okurkový salát,1x 150g,74,1.391,16.617,15.105,0.202
+1001,baklava,28.3x 1g,111,1.726,10.613,,7.33
+1001,káva espresso,1x 50ml,2,0.1,,,0.2
+1001,řecký jogurt bílý 0% tuku Milko,200x 1g,114,20,7,5.4,0.4
+1001,ořechy vlašské,11x 1g,76,1.734,1.59,0.422,6.972
+1001,Essential Pure CFM 80 protein pistácie Prom-in,31x 1g,122,23.901,1.798,1.798,2.077
+1001,mléko polotučné trvanlivé 1.5% Pilos,20x 1ml,9,0.66,0.98,0.98,0.3
+1001,Jacobs Velvet,1x hrnek (250 ml),6,,,,
+1001,rajčata,111x 1g,25,1.066,4.518,3.185,0.255
+1001,paprika bílá,57x 1g,9,0.57,2.28,,
+1001,okurka salátová,89x 1g,12,0.73,2.029,1.312,0.16
+1001,mrkev čerstvá,24x 1g,8,0.24,1.762,1.345,0.053
+1001,sýr eidam 30% tuku Bluedino,38x 1g,100,10.26,0.19,0.19,6.46
+1001,šunka vepřová dušená nejvyšší jakosti,64x 1g,76,12.16,0.32,,2.88
+0702,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0702,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0702,Nescafé káva classic,1x 4 g,5,0.28,0.36,0.36,0.008
+0702,vepřová panenka,1x 150g,204,30.72,,,8.115
+0702,bramborová kaše,1x 50 g,57,1.351,9.737,1.951,1.375
+0702,ořechy para,30x 1g,211,4.287,3.156,0.72,20.175
+0702,sardinky ve slaném nálevu a slunečnicovém oleji AH Basic,1x pevný podíl (90 g),161,20.7,,,8.64
+0702,Nescafé káva classic,1x 4 g,5,0.28,0.36,0.36,0.008
+0702,paprika bílá,71x 1g,11,0.71,2.84,,
+0702,rajčata,177x 1g,39,1.699,7.204,5.078,0.407
+0702,vejce slepičí na tvrdo,1x 50g,75,6.29,0.56,,5.305
+0702,ledový salát,197x 1g,32,1.379,3.94,3.467,0.591
+0702,okurka salátová,109x 1g,15,0.894,2.485,1.607,0.196
+0702,vepřová panenka,83x 1g,113,16.998,,,4.49
+0802,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0802,míchaná vejce na cibulce,1x 100g,235,16,2.7,,9
+0802,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0802,kuřecí maso pečené,1x 100g,183,28.93,,,7.41
+0802,rajče cherry keříčkové balené,15x 1g,3,0.15,0.585,0.375,0.03
+0802,Eidam sýr 30 % tuku. plátkový,1x kus (16.7 g),44,4.509,0.301,0.167,2.622
+0802,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0802,lískové ořechy AH Basic,10x 1g,66,1.2,1.05,0.63,6.16
+0802,kuřecí maso dušené,73x 1g,124,19.922,,,4.898
+0902,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0902,těstoviny s kuřecím masem a smetanou,260x 1g,317,15.08,18.46,,18.46
+0902,parmazán,6x 1g,23,2.092,0.194,0.18,1.58
+0902,Impact Whey Protein Chocolate Banana MyProtein,45x 1g,178,32.85,2.835,2.52,3.6
+0902,Sushi Box Naniwa LIDL,1x balení (190 g),264,8.74,47.5,17.48,3.8
+0902,Italiamo Pizza Diavola s pikantním salámem,360x 1g,771,33.84,97.56,,25.2
+0902,jupík jahoda,10x 1g,2,0.01,0.6,0.6,0.01
+1002,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+1002,jogurt bílý 2.4% Klasik,1x kelímek (150 g),93,7.35,6.75,6.75,4.05
+1002,bageta celozrnná,1x 60g,155,6.36,25.38,1.14,2.4
+1002,šunka kuřecí,1x 30 g,50,5.28,,,3.15
+1002,Eidam sýr 30 % tuku. plátkový,30x 1g,79,8.1,0.54,0.3,4.71
+1002,káva espresso,1x 50ml,2,0.1,,,0.2
+1002,kuřecí smažený řízek,150x 1g,558,32.888,44.818,1.47,27.47
+1002,bramborová kaše,200x 1g,227,5.406,38.949,7.803,5.5
+1002,řecký jogurt bílý 0% tuku Milko,207x 1g,118,20.7,7.245,5.589,0.414
+1002,Essential pure micellar vanilková příchuť,32x 1g,112,25.28,2.08,2.048,0.416
+1002,káva espresso,1x 50ml,2,0.1,,,0.2
+1002,sushi maki průměr,18x kus (17 g),409,19.89,59.364,,8.874
+1002,sushi losos maki,6x 31g,89,5.208,11.904,,2.232
+1002,sójová omáčka,25x 1ml,14,1.875,1.63,,0.02
+1002,wasabi,1x 10g,28,0.27,5.3,,0.7
+1002,Mandle natural neloupané Grizly,30x 1g,181,5.7,1.62,1.62,16.2
+0703,Carnitine 60000 a synephrine,20x 1ml,6,1.3,,,
+0703,instantní čaj Herbalife,4x na 250ml 1.7g (1.7 g),25,0.721,5.399,1.523,0.007
+0703,vločky ovesné Lidl,80x 1g,296,10.8,46.96,,5.6
+0703,tvaroh tučný Albert Quality,1x balení (250 g),331,22.5,8,8,22.5
+0703,káva espresso,1x 50ml,2,0.1,,,0.2
+0703,bramborová kaše,70x 1g,79,1.892,13.632,2.731,1.925
+0703,hovězí maso vařené,1x 100g,171,24.63,0.37,,7.82
+0703,ořechy para,30x 1g,211,4.287,3.156,0.72,20.175
+0703,sardinky ve slaném nálevu a slunečnicovém oleji AH Basic,1x pevný podíl (90 g),161,20.7,,,8.64
+0703,paprika bílá,90x 1g,14,0.9,3.6,,
+0703,"tuňák ve vlastní šťávě Sun &amp, Sea",1x 56g,67,14.56,,,0.84
+0703,ledový salát,40x 1g,6,0.28,0.8,0.704,0.12
+0703,okurka salátová,129x 1g,18,1.058,2.941,1.902,0.232
+0703,Royal šunka krůtí Dulano,3x kus (5 g),16,3,0.15,,0.3
+0703,čínské zelí,227x 1g,39,2.701,5.584,3.042,0.681
+0803,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0803,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0803,tvaroh polotučný Albert Quality,1x balení (250 g),230,25,11,9.75,9.5
+0803,rýže červená Natural Arax,104x 1g,432,9.36,88.4,,3.12
+0803,kuřecí maso dušené,189x 1g,322,51.578,,,12.682
+0803,sardinky ve vlastní štávě Giana,1x balení (90 g),104,21.6,0.09,0.09,1.8
+0803,chléb žitno slunečnicový celozrnný Fit den Penam,1x kus (42 g),104,3.36,13.86,1.68,3.15
+0803,Latte macchiato,1x 250 ml,108,3.5,16.75,16,3
+0803,Slunečnice loupaná,1x porce (5 g),29,1.05,0.1,0.15,2.6
+0903,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0903,Kešu nesolené nepražené ALESTO,1x 10g,60,1.88,2.31,0.77,4.7
+0903,rizoto zeleninové,250x 1g,558,18.552,96.686,4.721,10.931
+0903,parmazán,4.5x 1g,18,1.569,0.146,0.135,1.185
+0903,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0903,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0903,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0903,mandle albert basic,10x 1g,64,1.8,1.9,0.5,5.2
+0903,rajčata cherry,37.1x 1g,8,0.334,1.336,0.965,0.074
+0903,okurka salátová,101.8x 1g,14,0.835,2.321,1.501,0.183
+0903,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0903,rajčata cherry,99x 1g,21,0.891,3.564,2.574,0.198
+0903,vaječina,126x 1g,327,16.254,3.276,,27.594
+1003,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+1003,fazole bílé v rajčatové omáčce Giana,150x 1g,127,5.7,21,8.55,0.9
+1003,kuřecí prso vařené,150x 1g,152,34.65,0.015,,0.18
+1003,Figuactiv tyčinka Mediterana,1x balení (60 g),206,13.2,18.6,11.4,5.28
+1003,bageta celozrnná,1x 60g,155,6.36,25.38,1.14,2.4
+1003,rajče Kumato,25x 1g,5,0.225,0.625,,0.05
+1003,rukola,1x 10g,2,0.21,0.26,,0.07
+1003,měkký tvaroh Clever,1x kus (250 g),168,30,10,8.75,1.25
+1003,mléko polotučné trvanlivé 1.5% Pilos,150x 1ml,69,4.95,7.35,7.35,2.25
+1003,Essential pure micellar vanilková příchuť,1x porce (30 g),105,23.7,1.95,1.92,0.39
+1003,Essential Pure CFM 80 protein pistácie Prom-in,15x 1g,59,11.565,0.87,0.87,1.005
+1003,Mandle natural neloupané Grizly,10x 1g,60,1.9,0.54,0.54,5.4
+1003,sýr eidam 30% tuku Bluedino,63x 1g,166,17.01,0.315,0.315,10.71
+0704,Carnitine 60000 a synephrine,20x 1ml,6,1.3,,,
+0704,instantní čaj Herbalife,4x na 250ml 1.7g (1.7 g),25,0.721,5.399,1.523,0.007
+0704,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0704,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0704,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0704,Mind Master,1x porce (80 ml),43,,10,,
+0704,Jaroměřický měkký tvaroh,150x 1g,132,25.35,5.55,5.4,0.75
+0704,bramborová kaše,70x 1g,79,1.892,13.632,2.731,1.925
+0704,hovězí maso vařené,1x 100g,171,24.63,0.37,,7.82
+0704,ořechy para,15x 1g,106,2.144,1.578,0.36,10.088
+0704,káva espresso,1x 50ml,2,0.1,,,0.2
+0704,mléko polotučné trvanlivé 1.5% Pilos,100x 1ml,46,3.3,4.9,4.9,1.5
+0704,Jaroměřický měkký tvaroh,1x 100g,88,16.9,3.7,3.6,0.5
+0704,paprika bílá,101x 1g,16,1.01,4.04,,
+0704,okurka salátová,113x 1g,16,0.927,2.576,1.666,0.203
+0704,Royal šunka krůtí Dulano,2x kus (5 g),10,2,0.1,,0.2
+0704,čínské zelí,308x 1g,53,3.665,7.577,4.127,0.924
+0704,vejce slepičí na tvrdo,1x 50g,75,6.29,0.56,,5.305
+0704,ořechy para,12x 1g,85,1.715,1.262,0.288,8.07
+0704,olej olivový extra panenský,2.5x 1g,21,,,,2.275
+0804,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0804,zelenina čerstvá rajčata. okurka. ledový salát,1x 100g,21,0.8,3.2,0.2,
+0804,míchaná vajíčka na cibulce,1x 100g,213,12,2,,17
+0804,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0804,jasmínová rýže vařená,1x 150 g,169,4.05,37.5,,0.3
+0804,grilované kuřecí prsíčko Subway,70x 1g,97,7.7,14.77,2.1,1.19
+0804,rukola,1x 30g,7,0.63,0.78,,0.21
+0804,Rajec máta nesycená,750x 1ml,140,,33.75,33.75,
+0804,Latte macchiato,1x porce (300 ml),130,4.2,20.1,19.2,3.6
+0804,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0804,ořechy mandle neloupané,10x 1g,64,2.041,1.861,0.42,5.344
+0804,kuřecí maso dušené,70x 1g,119,19.103,,,4.697
+0904,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0904,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0904,míchaná vajíčka na cibulce,200x 1g,425,24,4,,34
+0904,okurka salátová,20x 1g,3,0.164,0.456,0.295,0.036
+0904,rukola,40x 1g,10,0.84,1.04,,0.28
+0904,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0904,rizoto s kuřecím masem a zeleninou,150x 1g,193,10.05,32.1,,3.6
+0904,Parmazán nebo Grana Padano,5x 1g,20,1.65,0.15,0.15,1.45
+0904,steakové hranolky do trouby Keizer,10x 1g,11,0.23,2.17,0.01,0.12
+0904,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0904,mandle blanšírované plátky,10x 1g,58,2.12,2.17,0.39,4.94
+0904,Kešu nesolené nepražené ALESTO,13x 1g,78,2.444,3.003,1.001,6.11
+0904,Bcaa bodylab cola limetka,1x porce (5 g),12,2.6,,,
+0904,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0904,Impact Whey Protein Chocolate Banana MyProtein,15x 1g,59,10.95,0.945,0.84,1.2
+1004,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+1004,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+1004,kuřecí maso dušené,101x 1g,172,27.563,,,6.777
+1004,dušený hrášek,61x 1g,69,2.44,7.32,,3.05
+1004,brambory vařené bez slupky,74x 1g,50,0.984,11.551,4.44,0.059
+1004,mrkev dušená,45x 1g,20,0.63,4.365,1.553,0.135
+1004,Oreo sušenky,1x 11g,53,0.561,7.7,3.85,2.2
+1004,mléko polotučné trvanlivé 1.5% Pilos,50x 1ml,23,1.65,2.45,2.45,0.75
+1004,řecký jogurt bílý 0% tuku Milko,203x 1g,116,20.3,7.105,5.481,0.406
+1004,Essential pure micellar vanilková příchuť,1x porce (30 g),105,23.7,1.95,1.92,0.39
+1004,Mandle natural neloupané Grizly,10x 1g,60,1.9,0.54,0.54,5.4
+1004,President Emental,22.5x 1g,82,6.525,0.113,,6.3
+1004,Mandle natural neloupané Grizly,18.3x 1g,110,3.477,0.988,0.988,9.882
+0705,ovesné vločky,1x porce (40 g),154,5.256,27.236,0.612,2.748
+0705,ořechy para,2x kus (2.7 g),38,0.772,0.568,0.13,3.632
+0705,ořechy vlašské,1x 10g,69,1.576,1.445,0.384,6.338
+0705,mléko polotučné trvanlivé 1.5% Pilos,1x 200ml,92,6.6,9.8,9.8,3
+0705,těstoviny vařené průměr,134x 1g,178,4.753,31.814,0.266,3.373
+0705,hovězí maso vařené,70x 1g,120,17.241,0.259,,5.474
+0705,Kingswood Apple Cider,1x porce (400 ml),191,,21.2,20,
+0705,RedBull Original,1x balení (250 ml),115,,27.5,27.5,
+0705,vodka,1x 20 ml = 2 cl (20 ml),44,,,,
+0705,pivo Radegast ryze hořká 12,4x 500ml,884,10,78,12,
+0705,RedBull Original,2x balení (250 ml),230,,55,55,
+0705,Kingswood Apple Cider,2x porce (400 ml),382,,42.4,40,
+0705,Jagermeister,1x 2 cl (malý panák) (20 ml),49,,2.2,,
+0705,Birell nealkoholické osvěžení pomelo a grep,1x 500ml,170,2.5,40,31,
+0705,Hamburger z hovězího masa,100x 1g,250,18,0.1,,15
+0805,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0805,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0805,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0805,tvaroh odtučnený Pilos,1x balení (250 g),172,29.5,10,10,0.75
+0805,Pstruh lososový grilovaný v troubě,1x 300g,405,64.5,,,16.2
+0805,Kešu nesolené nepražené ALESTO,1x 10g,60,1.88,2.31,0.77,4.7
+0805,zelenina čerstvá rajčata. okurka. ledový salát,165x 1g,35,1.32,5.28,0.33,
+0805,Kešu nesolené nepražené ALESTO,1x 10g,60,1.88,2.31,0.77,4.7
+0805,paprika bílá,97x 1g,15,0.97,3.88,,
+0805,sardinky ve vlastní štávě Giana,1x balení (90 g),104,21.6,0.09,0.09,1.8
+0905,Bcaa bodylab cola limetka,2.5x 1g,6,1.3,,,
+0905,Impact Whey Protein Chocolate Banana MyProtein,12x 1g,47,8.76,0.756,0.672,0.96
+0905,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0905,Bcaa bodylab cola limetka,17x 1g,41,8.84,,,
+0905,banán,1x kus (110 g),103,1.32,24.013,20.967,0.264
+0905,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0905,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0905,mandle blanšírované plátky,10x 1g,58,2.12,2.17,0.39,4.94
+0905,Grilované kuřecí prsíčka s brokolicí v páře. jasmínová rýže,,290,,,,
+0905,smetanová zmrzlina,1x porce (45 g),113,0.9,6.3,,9.9
+0905,tuňák Gold plus drcený ve vlastní šťávě,1x pevný podíl (56 g),51,9.52,,,1.12
+0905,paprika zelená,192x 1g,51,2.17,8.813,6.893,0.749
+0905,Bcaa bodylab cola limetka,1x porce (5 g),12,2.6,,,
+0905,Impact Whey Protein Chocolate Banana MyProtein,32x 1g,126,23.36,2.016,1.792,2.56
+0905,kuřecí maso dušené,26x 1g,44,7.095,,,1.745
+1005,Snídaně - koktejl,,111,11.76,6.16,0.28,3.64
+1005,Penam Fit den sporty chléb celozrnný,141x 1g,264,7.755,49.35,2.115,1.41
+1005,President Emental,43x 1g,157,12.47,0.215,,12.04
+1005,Hroznové víno červené,149x 1g,100,0.894,25.33,23.84,0.596
+1005,smetana ke šlehání 31% Kunín,10x 1g,30,0.21,0.29,0.29,3.1
+1005,dušený hrášek,61x 1g,69,2.44,7.32,,3.05
+1005,kuřecí maso dušené,104x 1g,177,28.382,,,6.978
+1005,brambory vařené bez slupky,85x 1g,57,1.131,13.269,5.1,0.068
+1005,mrkev dušená,47x 1g,21,0.658,4.559,1.622,0.141
+1005,řecký jogurt bílý 0% tuku Milko,240x 1g,137,24,8.4,6.48,0.48
+1005,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0706,těstoviny vařené průměr,1x 150 g,200,5.32,35.613,0.298,3.776
+0706,brokolicová omáčka,321x 1g,221,12.84,10.486,,12.84
+0706,Nestlé Fitness tyčinka Strawberry,1x 23.5g,84,1.175,16.074,5.405,1.669
+0706,subway b.l.t. 12 inch. salat. rajče. cibule. ranch dressing,1x balení (302 g),951,29.898,106.002,19.932,44.092
+0706,double chocolate cookie Subway,1x 45g,210,1.98,30.015,19.98,9
+0706,pivo Radegast ryze hořká 12,1x 500ml,221,2.5,19.5,3,
+0706,vodka,1x 40 ml =4 cl  (40 ml),89,,,,
+0706,RedBull Blue Edition borůvka,1x balení (250 ml),113,,27.5,27.5,
+0706,RedBull Red Editio,1x balení (250 ml),116,,27.5,27.5,
+0706,Kingswood Apple Cider,1x porce (400 ml),191,,21.2,20,
+0706,kari rýže,1x 150g,285,3.6,34.65,,13.65
+0706,kuřecí maso smažené,1x 100g,211,30.57,1.69,,9.12
+0706,pivo Radegast ryze hořká 12,1x 500ml,221,2.5,19.5,3,
+0706,ovocná tyčinka ananas Emco,1x kus (30 g),121,1.2,19.2,8.7,3.9
+0806,mleko polotučné Kunín,1x 250ml,118,8.25,12.25,12.25,3.75
+0806,lískové ořechy AH Basic,7x 1g,46,0.84,0.735,0.441,4.312
+0806,ořechy mandle neloupané,7x 1g,45,1.429,1.303,0.294,3.741
+0806,vločky sójové Bio Country Life,50x 1g,199,20.5,1.5,1.5,10.5
+0806,krůtí maso bez kůže. vařené. pečené,200x 1g,274,46,,,10
+0806,těstoviny bezvaječné vařené,62x 1g,65,1.829,13.987,0.193,0.223
+0806,Argus Free pivo nealkoholické,1x 500 ml,130,0.95,29,16.5,
+0806,rajčata cherry,59x 1g,13,0.531,2.124,1.534,0.118
+0806,sýr eidam 30% tuku Bluedino,1x plátek (20 g),53,5.4,0.1,0.1,3.4
+0806,šunka z krůtích prsou Dulano,1x plátek (9 g),9,1.8,0.09,0.081,0.18
+0806,chléb žitno slunečnicový celozrnný Fit den Penam,1x větší plátek (56 g),139,4.48,18.48,2.24,4.2
+0806,paprika bílá,97x 1g,15,0.97,3.88,,
+0806,hlávkovy salát,29x 1g,5,0.374,0.728,0.31,0.073
+0806,Tuňák Billa ve vlastní šťávě,1x balení (56 g),57,12.88,,,0.504
+0806,ořechy mandle neloupané,10x 1g,64,2.041,1.861,0.42,5.344
+0906,STAR WARS Kelloggs,30x 1g,114,2.7,23.4,8.7,0.75
+0906,Impact Whey Protein Chocolate Banana MyProtein,12.5x 1g,49,9.125,0.788,0.7,1
+0906,rýžový nápoj kokos YOSOY,200x 1ml,121,0.6,23.4,11.2,2.6
+0906,Bcaa bodylab cola limetka,2.2x 1g,5,1.144,,,
+0906,tvaroh polotučný Albert Quality,1x balení (250 g),230,25,11,9.75,9.5
+0906,Impact Whey Protein Chocolate Banana MyProtein,12.5x 1g,49,9.125,0.788,0.7,1
+0906,káva espresso,1x 50ml,2,0.1,,,0.2
+0906,rizoto s kuřecím masem a zeleninou,206x 1g,266,13.802,44.084,,4.944
+0906,Parmazán nebo Grana Padano,20x 1g,80,6.6,0.6,0.6,5.8
+0906,Bcaa bodylab cola limetka,5x 1g,12,2.6,,,
+0906,Kešu nesolené nepražené ALESTO,11.7x 1g,70,2.2,2.703,0.901,5.499
+0906,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0906,česnek,7x 1g,9,0.435,1.753,0.224,0.019
+0906,jogurt bílý krémový 3.7% Pilos,73x 1g,49,2.847,3.212,3.139,2.701
+0906,kuřecí maso dušené,148x 1g,252,40.389,,,9.931
+1006,Snídaně - koktejl,,111,11.76,6.16,0.28,3.64
+1006,rohlík tukový,1x kus (50 g),144,4.5,27.5,0.5,1.5
+1006,míchaná vajíčka,1x 210g,348,26.145,4.62,,25.011
+1006,rajčata,1x 1g,0,0.01,0.041,0.029,0.002
+1006,dušený hrášek,61x 1g,69,2.44,7.32,,3.05
+1006,kuřecí maso dušené,104x 1g,177,28.382,,,6.978
+1006,brambory vařené bez slupky,85x 1g,57,1.131,13.269,5.1,0.068
+1006,mrkev dušená,47x 1g,21,0.658,4.559,1.622,0.141
+1006,Margot tyčinka s kokosovou příchutí Orion,1x 100 g,454,7.6,59.1,52.5,19.9
+1006,jogurt bílý 2.4% Klasik,1x kelímek (150 g),93,7.35,6.75,6.75,4.05
+1006,mix oříšků,35x 1g,173,2.765,21.35,16.8,8.4
+1006,fazole bílé v rajčatové omáčce Giana,1x 410g,346,15.58,57.4,23.37,2.46
+0707,těstoviny vařené průměr,1x 150 g,200,5.32,35.613,0.298,3.776
+0707,brokolicová omáčka,300x 1g,207,12,9.8,,12
+0707,proteinovy koktejl jahoda Semix,1x porce (30 g),114,16.8,8.1,4.8,1.26
+0707,mléko polotučné trvanlivé 1.5% Pilos,300x 1ml,138,9.9,14.7,14.7,4.5
+0707,okurka salátová,1x 50g,7,0.41,1.14,0.737,0.09
+0707,rajčata,1x kus (40 g),9,0.384,1.628,1.148,0.092
+0707,paprika bílá,1x 20g,3,0.2,0.8,,
+0707,Active křehké rohlíčky s celozrnnou moukou Bonavita,1x 4 ks (50 g),197,5,34.5,3.5,3.35
+0707,kopr,5x 1g,2,0.117,0.375,0.04,0.01
+0707,tvaroh odtučněný Pilos,30x 1g,20,3.54,1.2,1.05,0.09
+0707,Excelent 11° pivo,1x balení (500 ml),200,2.5,17,,
+0707,vodka,4x 20 ml = 2 cl (20 ml),177,,,,
+0707,RedBull Original,4x balení (250 ml),459,,110,110,
+0707,Kingswood Apple Cider,1x porce (400 ml),191,,21.2,20,
+0707,Hot dog s kečupem a zelím,1x kus (140 g),328,12.04,27.58,1.96,18.9
+0707,Jagermeister,3x 2 cl (malý panák) (20 ml),148,,6.6,,
+0707,tortila. drůbeží nudličky gyros. jogurtový dip. pekingské zelí,1x 355g,549,41.89,18.105,,4.97
+0707,Kingswood Apple Cider,1x porce (400 ml),191,,21.2,20,
+0707,Fit müsli hrušková tyčinka,1x balení (30 g),110,1.338,19.92,8.7,2.16
+0807,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0807,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0807,tvaroh odtučnený Pilos,1x balení (250 g),172,29.5,10,10,0.75
+0807,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0807,semínka slunečnicová,15x 1g,89,2.852,4.137,,6.75
+0807,arašídy loupané nepražené nesolené,5x 1g,28,1.29,0.807,0.199,2.462
+0807,paprika zelená,1x 130 g,34,1.469,5.967,4.667,0.507
+0807,kuřecí maso dušené,96x 1g,163,26.198,,,6.442
+0807,ořechy kešu,1x 2oříšky (3 g),18,0.524,0.779,0.159,1.367
+0807,kuřecí maso dušené,87x 1g,148,23.742,,,5.838
+0807,řecký jogurt bílý 0% tuku Milko,40x 1g,23,4,1.4,1.08,0.12
+0807,česnek,1x kus (5 g),6,0.311,1.252,0.16,0.014
+0807,černý pepř,1x špetka (0.2 g),1,0.024,0.127,,0.017
+0907,Impact Whey Protein Chocolate Banana MyProtein,12.5x 1g,49,9.125,0.788,0.7,1
+0907,Nescafé káva classic,1x 1 lžíčka (2 g),2,0.14,0.18,0.18,0.004
+0907,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0907,Kingswood Apple Cider,1x porce (400 ml),191,,21.2,20,
+0907,Vinea bílá,500x 1ml,191,2.5,47.5,47.5,2.5
+0907,rýže Basmati dlouhozrnná loupaná Albert Excelent,220x 1g,801,18.48,173.8,,2.64
+0907,sójové nudličky Bonavita suché,174x 1g,550,87,33.06,18.096,1.566
+0907,ředkvičky,235x 1g,50,2.562,9.189,5.429,0.329
+0907,twister KFC,1x porce (226 g),540,19.436,51.076,3.842,28.024
+0907,Hot and spicy strips KFC,2x kus (32 g),168,9.792,9.472,0.32,10.816
+0907,hranolky KFC,1x velká porce (105 g),268,4.095,35.49,0.21,11.55
+0907,KFC Pepsi,7x 100ml,283,,74.9,74.2,
+0907,Burger King Chilli cheese burger,1x 100 g,334,11.1,25.1,4,21.2
+1007,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+1007,Jihočeské Jerky hovězí,23x 1g,62,9.996,0.89,,1.99
+1007,Big shock zero sugar gold perlivý,1x 500ml,10,,,,
+1007,segedín kuřecí,500x 1g,319,53.5,10.7,,5.95
+1007,sýr eidam 30% tuku Bluedino,1x kus (100 g),263,27,0.5,0.5,17
+1007,Metro dezert Klasik,1x balení (120 g),526,3,83.76,70.08,19.08
+1007,Kofila,1x tyčinka (35 g),171,1.295,20.825,19.425,8.995
+1007,čokoláda hořká 70% s lískovými ořechy Carla,3x porce (9 g),150,2.484,8.1,6.75,11.34
+1007,Camembert nakládaný Toppo,1x porce (75 g),145,9.9,0.975,0.6,11.625
+1007,řecký jogurt bílý 0% tuku Milko,270x 1g,154,27,9.45,7.29,0.54
+1007,Essential pure micellar vanilková příchuť,1x porce (30 g),105,23.7,1.95,1.92,0.39
+1007,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0708,krůtí maso restované,1x 100g,120,30,,,
+0708,těstoviny vařené průměr,1x 150 g,200,5.32,35.613,0.298,3.776
+0708,Müsli Bar First Nice pomeranč a čokoláda,1x tyčinka (30 g),121,1.05,22.74,11.55,2.76
+0708,Jagermeister,1x 4 cl (40 ml),98,,4.4,,
+0708,RedBull Original,3x balení (250 ml),344,,82.5,82.5,
+0708,langoš se sýrem a kečupem,2x 100g,497,17.487,65.411,4.969,18.482
+0708,Dürüm kebab,1x porce (390 g),625,37.83,79.17,6.63,16.38
+0708,Kingswood Apple Cider,3x porce (400 ml),574,,63.6,60,
+0708,Müsli bar First nice brusinky a maliny. jahoda. malina v jogurtové polevě,1x tyčinka (35 g),154,2.17,21.28,10.5,6.37
+0708,oříšková tyčinka s arašídy. ořechy a medem First Nice,1x balení (35 g),192,5.25,15.05,9.45,11.9
+0808,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0808,tvaroh odtučnený Pilos,1x balení (250 g),172,29.5,10,10,0.75
+0808,zapečené brambory s brokolici.sýrem.kuřecim masem,336x 1g,285,30.677,29.501,,4.805
+0808,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0808,ořechy mandle neloupané,10x 1g,64,2.041,1.861,0.42,5.344
+0808,kuřecí maso dušené,137x 1g,233,37.387,,,9.193
+0908,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0908,Bcaa bodylab cola limetka,1x porce (5 g),12,2.6,,,
+0908,Bcaa bodylab cola limetka,7.5x 1g,18,3.9,,,
+0908,Basmati dlouhozrnná rýže loupaná syrová Albert,150x 1g,548,12.6,118.5,,1.8
+0908,sójové nudličky Bonavita suché,30x 1g,95,15,5.7,3.12,0.27
+0908,Kešu nesolené nepražené ALESTO,10.4x 1g,62,1.955,2.402,0.801,4.888
+0908,Impact Whey Protein Chocolate Banana MyProtein,50x 1g,198,36.5,3.15,2.8,4
+1008,MiXit vlastní mix ( ovesné vločky. lupínky křupavé. mandle. kokosové lupínky. para ořechy. kávová zrna. vlašské ořechy),70x 1g,303,11.032,37.828,0.882,13.65
+1008,mléko polotučné trvanlivé 1.5% Pilos,1x porce (100 ml),46,3.3,4.9,4.9,1.5
+0809,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0809,míchaná vajíčka na cibulce,1x 240g,510,28.8,4.8,,40.8
+0809,rajče cherry keříčkové balené,20x 1g,4,0.2,0.78,0.5,0.04
+0809,rukola,10x 1g,2,0.21,0.26,,0.07
+0809,houska obyčejná,1x malý kus (35 g),100,2.94,21.035,,0.35
+0809,broskev,1x 120g,63,0.912,14.508,13.126,0.18
+0809,zapečené brambory s brokolici.sýrem.kuřecim masem,206x 1g,175,18.808,18.087,,2.946
+0809,ořechy mandle neloupané,6x 1g,38,1.225,1.117,0.252,3.206
+0809,řecký jogurt bílý 0% tuku Milko,200x 1g,115,20,7,5.4,0.6
+0809,lískové ořechy AH Basic,9x 1g,60,1.08,0.945,0.567,5.544
+0809,paprika zelená,162x 1g,43,1.831,7.436,5.816,0.632
+0809,rajčata cherry,62x 1g,13,0.558,2.232,1.612,0.124
+0809,kuřecí maso dušené,107x 1g,182,29.2,,,7.18
+0909,proteinové palačinky čoko kokos Prom in,1x porce (60 g),239,22.98,19.38,1.5,6.48
+0909,Bcaa bodylab cola limetka,10x 1g,24,5.2,,,
+0909,Basmati dlouhozrnná rýže loupaná syrová Albert,75x 1g,274,6.3,59.25,,0.9
+0909,sójové nudličky Bonavita suché,40x 1g,126,20,7.6,4.16,0.36
+0909,vařená zelenina (paprika. rajčata. cibule tykev. sůl),100x 1g,36,2.3,5.7,1.8,0.1
+1009,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+1009,jasmínová rýže vařená,144x 1g,162,3.888,36,,0.288
+1009,kuřecí maso dušené,102x 1g,174,27.836,,,6.844
+1009,hrášek sterilovaný,67x 1g,45,3.199,7.38,2.209,0.232
+1009,royal šunka Dulano,18x 1g,20,3.6,0.18,0.162,0.54
+1009,"NUTREND just Fruit banán &amp, jablko",1x balení (30 g),100,0.69,20.64,11.67,0.39
+1009,Tekmar Green Line Protein Cappuccino,1x kus (40 g),123,8,9.6,5.4,4.8
+0710,LR Figuactiv Proteinový nápoj prášek,1x odměrka (12.5 g),46,10,0.538,0.313,0.413
+0710,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0710,Carnitine 60000 a synephrine,25x 1ml,8,1.625,,,
+0710,tvaroh tučný Pilos,1x balení (250 g),353,22.5,9.5,8.75,22.5
+0710,nektarinka,1x kus (145 g),53,1.74,11.6,11.441,0.145
+0710,káva espresso,125x 1ml,5,0.25,,,0.5
+0710,těstoviny vařené průměr,1x 150 g,200,5.32,35.613,0.298,3.776
+0710,krůtí maso bez kůže. vařené. pečené,1x 70g,96,16.1,,,3.5
+0710,Eidam sýr 30 % tuku. plátkový,1x kus (16.7 g),44,4.509,0.301,0.167,2.622
+0710,jogurt bílý krémový 3.7% Pilos,1x balení (150 g),100,5.85,6.6,6.45,5.55
+0710,Mandle ALESTO,30x 1g,191,7.2,1.62,1.32,16.8
+0710,krůtí maso bez kůže. vařené. pečené,17x 1g,23,3.91,,,0.85
+0710,kuřecí prsa na vodě,1x 100g,102,23.1,0.3,,1.2
+0710,paprika bílá,62x 1g,10,0.62,2.48,,
+0710,okurka salátová,58x 1g,8,0.476,1.322,0.855,0.104
+0710,ledový salát,1x porce (120 g),19,0.84,2.4,2.112,0.36
+0710,rajčata,30x 1g,7,0.288,1.221,0.861,0.069
+0810,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0810,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0810,kakaová buchta domácí,1x 50g,154,2.154,24.308,,5.392
+0810,špagety vařené,299x 1g,429,14.262,84.737,1.674,2.003
+0810,Eidam sýr 30 % tuku. plátkový,11x 1g,29,2.97,0.198,0.11,1.727
+0810,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0810,okurka salátová,122x 1g,17,1,2.782,1.799,0.22
+0810,paprika bílá,97x 1g,15,0.97,3.88,,
+0810,kuřecí maso dušené,94x 1g,160,25.653,,,6.307
+0810,ořechy kešu,15x 1g,88,2.618,3.896,0.795,6.836
+0810,tykev semínka,21x 1g,113,5.25,3.78,,9.66
+0910,krůtí prsa restovaná,1x 200g,217,40,0.2,,6
+0910,rajčata,1x kus (80 g),18,0.768,3.256,2.295,0.184
+0910,paprika červená,1x 30 g,11,0.3,1.8,1.26,0.09
+0910,káva espresso,1x 50ml,2,0.1,,,0.2
+0910,mléko polotučné 1.5% tuku,1x 100ml,47,3.38,4.85,4.671,1.5
+0910,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0910,Impact Whey Protein Chocolate Banana MyProtein,15x 1g,59,10.95,0.945,0.84,1.2
+0910,Kešu nesolené nepražené ALESTO,13.5x 1g,81,2.538,3.119,1.04,6.345
+0910,rizoto s kuřecím masem a zeleninou,305x 1g,393,20.435,65.27,,7.32
+0910,Parmazán nebo Grana Padano,17.4x 1g,69,5.742,0.522,0.522,5.046
+0910,Bcaa bodylab cola limetka,1x porce (5 g),12,2.6,,,
+0910,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+1010,Snídaně - koktejl,,111,11.76,6.16,0.28,3.64
+1010,mandle blanšírované plátky,50x 1g,288,10.6,10.85,1.95,24.7
+1010,kuřecí maso dušené,106x 1g,180,28.927,,,7.113
+1010,jasmínová rýže vařená,203x 1g,229,5.481,50.75,,0.406
+1010,rajčata cherry,69x 1g,15,0.621,2.484,1.794,0.138
+1010,řecký jogurt bílý 0% tuku Milko,262x 1g,149,26.2,9.17,7.074,0.524
+1010,Essential Pure CFM 80 protein pistácie Prom-in,30x 1g,118,23.13,1.74,1.74,2.01
+1010,mandle blanšírované plátky,11.2x 1g,64,2.374,2.43,0.437,5.533
+1010,Halls extra strong - černé,1x kus (3.7 g),14,,3.563,,
+1010,bageta golf Crocodille,1x balení (185 g),522,16.65,55.5,3.515,20.72
+1010,Halls extra strong - černé,4x kus (3.7 g),56,,14.252,,
+1010,bílé fazole v kari omáčce Bonduelle,1x 430g,477,18.06,63.21,27.09,12.9
+0711,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0711,Carnitine 60000 a synephrine,15x 1ml,5,0.975,,,
+0711,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0711,tvaroh tučný Pilos,1x balení (250 g),353,22.5,9.5,8.75,22.5
+0711,banán,1x kus (110 g),103,1.32,24.013,20.967,0.264
+0711,káva espresso,100x 1ml,4,0.2,,,0.4
+0711,kuřecí prso vařene,60x 1g,61,13.86,0.006,,0.072
+0711,žampiony dušené,20x 1g,22,0.675,1.436,0.534,1.487
+0711,jasmínová rýže vařená,1x 200 g,226,5.4,50,,0.4
+0711,káva espresso,3x 50ml,6,0.3,,,0.6
+0711,bílý jogurt Clever,1x balení (150 g),101,5.7,6.9,6.3,5.55
+0711,zmrzlina Belgická čokoláda Haagen Dazs,12x 1g,37,0.528,3.192,2.616,2.472
+0711,paprika bílá,136x 1g,21,1.36,5.44,,
+0711,okurka salátová,68x 1g,10,0.558,1.55,1.003,0.122
+0711,ledový salát,54x 1g,9,0.378,1.08,0.95,0.162
+0711,kuřecí maso dušené,59x 1g,100,16.101,,,3.959
+0711,losos norský uzený Ocean Sea,220x 1g,410,51.48,,4.84,30.14
+0811,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0811,okurka salátová,5x 1g,1,0.041,0.114,0.074,0.009
+0811,rajče cherry keříčkové balené,15x 1g,3,0.15,0.585,0.375,0.03
+0811,houska obyčejná,1x kus (50 g),143,4.2,30.05,,0.5
+0811,míchaná vajíčka na cibulce,200x 1g,425,24,4,,34
+0811,Mokate Carmen Classic Coffee Creamer,1x 4 (4 g),21,0.072,2.552,,1.14
+0811,Aljašská treska filety Ocean Sea,1x porce (250 g),188,42.5,,,1.25
+0811,brambory pečené v troubě,80x 1g,75,1.4,10.4,,2.4
+0811,rajčata v balsamikovém nálevu,35x 1g,13,0.175,2.52,,0.035
+0811,kuřecí prsa grilovaná,100x 1g,142,26.7,3.1,,3.5
+0811,LR Figuactiv Proteinový nápoj prášek,1x odměrka (12.5 g),46,10,0.538,0.313,0.413
+0811,grilovaná cuketa,60x 1g,53,2.34,6,,0.84
+0911,Bcaa bodylab cola limetka,7.5x 1g,18,3.9,,,
+0911,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0911,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0911,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0911,Bcaa bodylab cola limetka,17.5x 1g,42,9.1,,,
+0911,mandle blanšírované plátky,10x 1g,58,2.12,2.17,0.39,4.94
+0911,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0911,krůtí prsa restovaná,104x 1g,113,20.8,0.104,,3.12
+0911,rýže Basmati dlouhozrnná loupaná Albert Excelent,50x 1g,182,4.2,39.5,,0.6
+0911,rajčata cherry,66x 1g,14,0.594,2.376,1.716,0.132
+0911,bio greek yogurt Milko,130x 1g,74,12.74,4.94,,0.39
+0911,Kešu nesolené nepražené ALESTO,10.5x 1g,63,1.974,2.426,0.809,4.935
+0911,polévka dýňová domácí HOKAIDO,303x 1g,130,5.151,24.24,,0.606
+0911,Bcaa bodylab cola limetka,8x 1g,19,4.16,,,
+0911,kuřecí maso dušené,16.1x 1g,27,4.394,,,1.08
+1011,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+1011,Kofola černý rybíz,1x balení (250 ml),85,1.25,20,20,1.25
+1011,burger se slaninou,200x 1g,420,38,0.2,,30
+1011,steakové hranolky do trouby Keizer,1x 100 g,112,2.3,21.7,0.1,1.2
+1011,Kofila,1x tyčinka (35 g),171,1.295,20.825,19.425,8.995
+1011,kešu natural Albert,10x 1g,62,1.53,3.26,0.52,4.69
+0712,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0712,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0712,káva espresso,2x 50ml,4,0.2,,,0.4
+0712,tvaroh tučný Pilos,1x balení (250 g),353,22.5,9.5,8.75,22.5
+0712,káva espresso,2x 50ml,4,0.2,,,0.4
+0712,kuřecí maso dušené,70x 1g,119,19.103,,,4.697
+0712,žampiony dušené,20x 1g,22,0.675,1.436,0.534,1.487
+0712,jasmínová rýže vařená,1x 150 g,169,4.05,37.5,,0.3
+0712,káva espresso,3x 50ml,6,0.3,,,0.6
+0712,jogurt bílý krémový 3.7% Pilos,1x balení (150 g),100,5.85,6.6,6.45,5.55
+0712,sýr Caciotta fresca,40x 1g,101,3.66,1.436,,9.112
+0712,Giuncata fresca,41x 1g,115,7.175,0.492,0.492,9.02
+0712,ořechy kešu,15x 1g,88,2.618,3.896,0.795,6.836
+0712,kuřecí maso dušené,104x 1g,177,28.382,,,6.978
+0712,Sweet chilli sauce Vitasia,15x 1ml,24,0.09,5.85,5.7,0.09
+0812,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0812,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0812,tvaroh odtučnený Pilos,1x balení (250 g),172,29.5,10,10,0.75
+0812,Scitec 100 % whey protein čokoláda,1x porce (30 g),119,21.99,3.78,1.5,1.68
+0812,LR Figuactiv Proteinový nápoj prášek,2x odměrka (12.5 g),93,20,1.075,0.625,0.825
+0812,kuřecí maso dušené,130x 1g,221,35.477,,,8.723
+0812,domácí tzatziky,150x 1g,66,3.615,5.895,1.29,3.09
+0812,sýr eidam 30% tuku Bluedino,1x plátek (20 g),53,5.4,0.1,0.1,3.4
+0812,ořechy kešu,10x 1g,58,1.745,2.597,0.53,4.557
+0812,chlebíček s vajíčkem,250x 1g,686,22.5,52.5,,22.5
+0812,smažené chipsy,1x 20 g,106,1.3,9.6,,7
+0812,LR Figuactiv Proteinový nápoj prášek,2x odměrka (12.5 g),93,20,1.075,0.625,0.825
+0912,Jihočeský tvaroh polotučný Madeta,1x balení (250 g),237,25.5,9,9,11
+0912,Impact Whey Protein Chocolate Banana MyProtein,25x 1g,99,18.25,1.575,1.4,2
+0912,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0912,zizu kuřecí stripsy obalované,250x 1g,483,45,27.5,2.5,20.5
+0912,krůtí prsa restovaná,104x 1g,113,20.8,0.104,,3.12
+0912,rýže Basmati dlouhozrnná loupaná Albert Excelent,50x 1g,182,4.2,39.5,,0.6
+0912,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0912,Pure Micellar Casein vanilka,1x porce (30 g),104,23.7,1.95,1.92,0.39
+0912,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0912,mandle blanšírované plátky,10x 1g,58,2.12,2.17,0.39,4.94
+1012,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+1012,kuřecí maso dušené,100x 1g,170,27.29,,,6.71
+1012,mrkev dušená,48x 1g,22,0.672,4.656,1.656,0.144
+1012,brambory vařené bez slupky,105x 1g,70,1.397,16.391,6.3,0.084
+1012,rajčata cherry,48x 1g,10,0.432,1.728,1.248,0.096
+0713,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0713,Jihočeský tvaroh polotučný Madeta,1x balení (250 g),237,25.5,9,9,11
+0713,Jacobs Velvet,1x hrnek (250 ml),6,,,,
+0713,Sardinky v slunečnicovém oleji Giana,90x 1g,200,23.4,,,11.7
+0713,brambory vařené bez slupky,155x 1g,104,2.062,24.196,9.3,0.124
+0713,rajčata cherry,1x 50g,11,0.45,1.8,1.3,0.1
+0713,kuřecí prso vařene,1x 100g,101,23.1,0.01,,0.12
+0713,bílý jogurt Clever,1x balení (150 g),101,5.7,6.9,6.3,5.55
+0713,káva espresso,2x 50ml,4,0.2,,,0.4
+0713,ořechy kešu,14x 1g,82,2.443,3.636,0.742,6.38
+0713,paprika bílá,139x 1g,22,1.39,5.56,,
+0713,rajčata cherry,41x 1g,9,0.369,1.476,1.066,0.082
+0713,ledový salát,87x 1g,14,0.609,1.74,1.531,0.261
+0713,okurka salátová,1x 30 g,4,0.246,0.684,0.442,0.054
+0713,kuřecí maso dušené,75x 1g,128,20.468,,,5.033
+0713,vejce slepičí na tvrdo,1x 50g,75,6.29,0.56,,5.305
+0813,pražma královská,250x 1g,321,52,0.75,,12
+0813,domácí tzatziky,170x 1g,75,4.097,6.681,1.462,3.502
+0813,LR Figuactiv Linée +3 prášek,1x odměrka (3.5 g),9,0.147,1.19,0.875,0.018
+0813,Kešu nesolené nepražené ALESTO,1x 10g,60,1.88,2.31,0.77,4.7
+0813,řecký jogurt bílý 0% tuku Milko,200x 1g,115,20,7,5.4,0.6
+0813,ořechy vlašské (walnuts) Alesto,10x 1g,71,1.55,0.37,0.3,6.91
+0813,cuketa pečená,30x 1g,7,0.6,0.6,,0.12
+0813,těstoviny semolinové Penne vařené,15x 1g,22,0.6,4.5,0.15,0.09
+0813,LR Figuactiv Proteinový nápoj prášek,2.5x odměrka (12.5 g),116,25,1.344,0.781,1.031
+0813,LR Figuactiv Proteinový nápoj prášek,1x odměrka (12.5 g),46,10,0.538,0.313,0.413
+0813,mléko polotučné trvanlivé 1.5% Pilos,150x 1ml,69,4.95,7.35,7.35,2.25
+0913,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0913,Jihočeský tvaroh polotučný Madeta,1x balení (250 g),237,25.5,9,9,11
+0913,ořechy mandle neloupané,7.9x 1g,50,1.612,1.47,0.332,4.222
+0913,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0913,brambory vařené v páře,111x 1g,89,1.554,19.98,7.77,
+0913,kuřecí maso dušené,175x 1g,298,47.758,,,11.743
+0913,ředkvičky,58x 1g,12,0.632,2.268,1.34,0.081
+0913,mléko polotučné čerstvé AH Basic,1x 250ml,114,8,11.5,11.5,3.75
+0913,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0913,Tuňák Billa ve vlastní šťávě,2x balení (56 g),114,25.76,,,1.008
+0913,Rio Mare Insalatissime Mais e Tonno,1x porce (160 g),291,14.4,10.4,3.2,20.8
+0913,rajčata cherry,38.2x 1g,8,0.344,1.375,0.993,0.076
+0913,Tuňák Rio mare v olivové oleji s chilli papričkami,1x kus (80 g),329,13.6,,,30.4
+1013,Essential Pure CFM 80 protein pistácie Prom-in,12x 1g,47,9.252,0.696,0.696,0.804
+1013,Snídaně - koktejl,,111,11.76,6.16,0.28,3.64
+1013,míchaná vajíčka,120x 1g,199,14.94,2.64,,14.292
+1013,ledový salát,15x 1g,2,0.105,0.3,0.264,0.045
+1013,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+1013,jogurt bílý krémový 3.7% Pilos,1x 500g,332,19.5,22,21.5,18.5
+1013,brambory vařené bez slupky,1x 50g,33,0.665,7.805,3,0.04
+1013,mrkev dušená,20x 1g,9,0.28,1.94,0.69,0.06
+1013,kuřecí maso dušené,1x 100g,170,27.29,,,6.71
+0714,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0714,tvaroh odtučněný Pilos,1x balení (250 g),169,29.5,10,8.75,0.75
+0714,káva espresso,3x 50ml,6,0.3,,,0.6
+0714,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0714,smetanová zmrzlina,1x porce (45 g),113,0.9,6.3,,9.9
+0714,fazolky zelené vařené,25x 1g,8,0.5,1.025,0.07,0.075
+0714,krůtí stehenní plátek pečený,1x 125g,183,32.625,,,4.875
+0714,brambory vařené bez slupky,1x 60g,40,0.798,9.366,3.6,0.048
+0714,sardinky ve slaném nálevu a oleji GIANA,1x porce (90 g),141,20.34,0.63,,6.3
+0714,ořechy kešu,15x 1g,88,2.618,3.896,0.795,6.836
+0714,okurka salátová,1x 40 g,6,0.328,0.912,0.59,0.072
+0714,paprika bílá,88x 1g,14,0.88,3.52,,
+0714,ledový salát,95x 1g,15,0.665,1.9,1.672,0.285
+0714,losos norský uzený Ocean Sea,1x 120g,224,28.08,,2.64,16.44
+0814,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0814,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0814,lískové ořechy AH Basic,10x 1g,66,1.2,1.05,0.63,6.16
+0814,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0814,Isoclear CFM Marcipán,1x 30g,111,25.5,0.96,0.6,0.36
+0814,kuřecí maso dušené,163x 1g,277,44.483,,,10.937
+0814,cuketa pečená,72x 1g,17,1.44,1.44,,0.288
+0814,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0814,řecký jogurt bílý 0% tuku Milko,200x 1g,115,20,7,5.4,0.6
+0814,ořechy vlašské (walnuts) Alesto,10x 1g,71,1.55,0.37,0.3,6.91
+0814,Kešu nesolené nepražené ALESTO,10x 1g,60,1.88,2.31,0.77,4.7
+0814,tuňák ve vlastní šťávě Giana,56x 1g,56,12.88,0.056,,0.616
+0814,cuketa pečená,30x 1g,7,0.6,0.6,,0.12
+0814,LR Figuactiv Proteinový nápoj prášek,2.5x odměrka (12.5 g),116,25,1.344,0.781,1.031
+0914,Essential Pure CFM 80 protein pistácie Prom-in,12.5x 1g,49,9.638,0.725,0.725,0.838
+0914,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0914,FA Pro Core Protein Bar Vanilla cream flavour,1x kus (80 g),324,26.48,32.4,21.28,11.04
+0914,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0914,kuře grilované celé s kůží,350x 1g,427,73.5,7,,14
+0914,rýže bílá dlouhozrnná vařená,70x 1g,91,1.883,19.6,,0.196
+0914,rajčata,80x 1g,18,0.768,3.256,2.295,0.184
+0914,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0914,mandle blanšírované plátky,10x 1g,58,2.12,2.17,0.39,4.94
+0914,paprika zelená,165x 1g,43,1.865,7.574,5.924,0.644
+0914,okurka salátová,77x 1g,11,0.631,1.756,1.136,0.139
+0914,rajčata,83x 1g,18,0.797,3.378,2.381,0.191
+0914,kuřecí maso dušené,76x 1g,129,20.74,,,5.1
+0715,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0715,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0715,tvaroh odtučněný Pilos,1x balení (250 g),169,29.5,10,8.75,0.75
+0715,brambory vařené bez slupky,1x menší porce (100 g),67,1.33,15.61,6,0.08
+0715,kuřecí maso dušené,1x 100g,170,27.29,,,6.71
+0715,žampiony dušené,1x 100g,109,3.377,7.179,2.671,7.435
+0715,káva espresso,1x 50ml,2,0.1,,,0.2
+0715,ořechy kešu,20x 1g,117,3.49,5.194,1.06,9.114
+0715,kuřecí prsa grilovaná,1x 200g,283,53.4,6.2,,7
+0715,grilovaná zelenina (lilek. cuketa. papriky. lžička oleje a bylinky),1x 250g,164,3,11.75,,11
+0715,LR Figuactiv Proteinový nápoj prášek,1x odměrka (12.5 g),46,10,0.538,0.313,0.413
+0715,Jihočeské mléko trvanlivé polotučné 1.5% Madeta,125x 1ml,57,4,6,6,1.875
+0815,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0815,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0815,lískové ořechy AH Basic,10x 1g,66,1.2,1.05,0.63,6.16
+0815,míchaná vejce na cibulce,150x 1g,352,24,4.05,,13.5
+0815,ledový salát,50x 1g,8,0.35,1,0.88,0.15
+0815,houska obyčejná,1x malý kus (35 g),100,2.94,21.035,,0.35
+0815,mléko polotučné 1.5% tuku,250x 1ml,118,8.45,12.125,11.678,3.75
+0815,káva espresso,50x 1ml,2,0.1,,,0.2
+0815,těstoviny s cuketou a nivou,210x 1g,348,11.571,61.32,,5.46
+0815,mléko polotučné 1.5% tuku,150x 1ml,71,5.07,7.275,7.007,2.25
+0815,káva espresso,70x 1ml,3,0.14,,,0.28
+0815,řecký jogurt bílý 0% tuku Milko,200x 1g,115,20,7,5.4,0.6
+0815,ořechy vlašské (walnuts) Alesto,10x 1g,71,1.55,0.37,0.3,6.91
+0815,Western fazole Hamé,400x 1g,503,16.8,68.4,31.2,17.6
+0815,LR Figuactiv Proteinový nápoj prášek,2.5x odměrka (12.5 g),116,25,1.344,0.781,1.031
+0915,Essential Pure CFM 80 protein pistácie Prom-in,12.5x 1g,49,9.638,0.725,0.725,0.838
+0915,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0915,tvaroh polotučný Albert Quality,1x balení (250 g),230,25,11,9.75,9.5
+0915,Essential pure micellar vanilková příchuť,1x porce (30 g),105,23.7,1.95,1.92,0.39
+0915,Kešu nesolené nepražené ALESTO,6.7x 1g,40,1.26,1.548,0.516,3.149
+0915,mandle albert basic,4x 1g,26,0.72,0.76,0.2,2.08
+0915,rajčata cherry,15x 1g,3,0.135,0.54,0.39,0.03
+0915,pečený pstruh s česnekem na másle,300x 1g,484,54,21,0.6,21.6
+0915,brambory vařené bez slupky,35x 1g,23,0.466,5.464,2.1,0.028
+0915,ředkvičky,50x 1g,11,0.545,1.955,1.155,0.07
+0915,rajčata cherry,25x 1g,5,0.225,0.9,0.65,0.05
+0915,Rio Mare Insalatissime Mais e Tonno,1x porce (160 g),291,14.4,10.4,3.2,20.8
+0915,Prom-in CFM Evolution Pistácie,1x 30g,115,22.59,2.85,0.75,1.23
+0915,mléko polotučné Albert Quality,1x 250 ml,114,8,11.5,,3.75
+0915,rajčata cherry,61.7x 1g,13,0.555,2.221,1.604,0.123
+0915,mandle albert basic,8.3x 1g,53,1.494,1.577,0.415,4.316
+0915,"tuňák ve vlastní šťávě Sun &amp, Sea",1x 56g,67,14.56,,,0.84
+0716,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0716,pražma zlatá sparus aurata filet,320x 1g,295,63.04,,,6.08
+0716,rajčata,1x 50 g,11,0.48,2.035,1.435,0.115
+0716,brambory vařené bez slupky,1x 50g,33,0.665,7.805,3,0.04
+0716,Coca Cola,100x 1ml,43,0.001,10.5,10.5,
+0716,ořechy kešu,14x 1g,82,2.443,3.636,0.742,6.38
+0716,sardinky ve vlastní štávě Giana,1x balení (90 g),104,21.6,0.09,0.09,1.8
+0716,Banan cereal bar Aptonia,1x balení (21 g),81,1.26,15.75,5.25,1.596
+0716,ořechy kešu,25x 1g,146,4.363,6.493,1.325,11.393
+0716,kuřecí maso dušené,1x 100g,170,27.29,,,6.71
+0716,Sweet chilli sauce Vitasia,1x 25ml,40,0.15,9.75,9.5,0.15
+0816,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0816,řecký jogurt bílý 0% tuku Milko,61x 1g,35,6.1,2.135,1.647,0.183
+0816,STAR WARS Kelloggs,30x 1g,114,2.7,23.4,8.7,0.75
+0816,jasmínová rýže vařená,150x 1g,169,4.05,37.5,,0.3
+0816,hovězí maso vařené,107x 1g,183,26.354,0.396,,8.367
+0816,řecký jogurt bílý 0% tuku Milko,200x 1g,115,20,7,5.4,0.6
+0816,ořechy vlašské (walnuts) Alesto,10x 1g,71,1.55,0.37,0.3,6.91
+0816,Kešu nesolené nepražené ALESTO,1x 10g,60,1.88,2.31,0.77,4.7
+0816,kuřecí maso dušené,138x 1g,235,37.66,,,9.26
+0816,rajčata cherry,64x 1g,14,0.576,2.304,1.664,0.128
+0816,jogurt bílý krémový 3.7% Pilos,30x 1g,20,1.17,1.32,1.29,1.11
+0816,česnek,5x 1g,6,0.311,1.252,0.16,0.014
+0816,LR Figuactiv Proteinový nápoj prášek,1x odměrka (12.5 g),46,10,0.538,0.313,0.413
+0916,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0916,ražničí vepřové,1x 200g,545,36,8,8,5
+0916,Basmati dlouhozrnná rýže loupaná syrová Albert,58x 1g,212,4.872,45.82,,0.696
+0916,Proteinový koktejl banánový Semix,1x balení (30 g),114,16.5,9,3,1.17
+0916,rajčata cherry,81x 1g,17,0.729,2.916,2.106,0.162
+0916,vejce sázené volské oko. buličí oko,1x kus (50 g),97,6.77,0.68,,7.5
+0916,Tuňák Rio mare v olivové oleji s chilli papričkami,1x kus (80 g),329,13.6,,,30.4
+0916,mléko polotučné Albert Quality,1x 250 ml,114,8,11.5,,3.75
+0916,řecký jogurt bílý 0% tuku Milko,250x 1g,117,20,8.75,6.75,0.25
+0916,Essential pure micellar vanilková příchuť,1x porce (30 g),105,23.7,1.95,1.92,0.39
+0916,lískové ořechy AH Basic,15x 1g,99,1.8,1.575,0.945,9.24
+1016,chléb celozrnný žitný Fit den Penam,148x 1g,280,8.14,51.8,2.22,1.48
+1016,Eidam Agricol 30% tuku plátky,41x 1g,108,11.07,0.205,0.205,6.97
+1016,vepřová kotleta pečeně,112x 1g,195,23.52,,,11.2
+1016,Basmati rýže dlouhozrnná natural Green Apotheke,58x 1g,215,4.582,44.776,,1.682
+1016,rajčata cherry,35x 1g,8,0.315,1.26,0.91,0.07
+1016,Monster Energy Ultra,1x kus (500 ml),18,,4.5,1,
+0717,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0717,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0717,tvaroh tučný Pilos,1x balení (250 g),353,22.5,9.5,8.75,22.5
+0717,káva espresso,125x 1ml,5,0.25,,,0.5
+0717,těstoviny vařené průměr,250x 1g,333,8.867,59.355,0.496,6.294
+0717,kuřecí maso dušené,50x 1g,85,13.645,,,3.355
+0717,vařená zelenina (paprika. rajčata. cibule tykev. sůl),15x 1g,5,0.345,0.855,0.27,0.015
+0717,parmazán,10x 1g,39,3.487,0.324,0.3,2.633
+0717,bílý jogurt AH Basic,1x porce (150 g),101,5.7,6.9,6.3,5.7
+0717,lískové ořechy AH Basic,1x 10g,66,1.2,1.05,0.63,6.16
+0717,ledový salát,166x 1g,27,1.162,3.32,2.922,0.498
+0717,kuřecí maso dušené,1x 100g,170,27.29,,,6.71
+0717,baby mungo naklíčené Albert Quality,25x 1g,21,2.2,2.8,0.175,0.15
+0817,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0817,Galaretka. smak truskawkowy,42x 1g,21,0.63,4.536,4.536,
+0817,STAR WARS Kelloggs,30x 1g,114,2.7,23.4,8.7,0.75
+0817,mléko polotučné trvanlivé 1.5% Pilos,150x 1ml,69,4.95,7.35,7.35,2.25
+0817,lískové ořechy AH Basic,1x 10g,66,1.2,1.05,0.63,6.16
+0817,kuřecí maso dušené,112x 1g,191,30.565,,,7.515
+0817,jasmínová rýže vařená,150x 1g,169,4.05,37.5,,0.3
+0817,jogurt bílý krémový 3.7% Pilos,30x 1g,20,1.17,1.32,1.29,1.11
+0817,česnek,5x 1g,6,0.311,1.252,0.16,0.014
+0817,mandle albert basic,10x 1g,64,1.8,1.9,0.5,5.2
+0817,Impact Whey Protein Chocolate Banana MyProtein,1x 25g,99,18.25,1.575,1.4,2
+0817,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0817,banán,1x kus (110 g),103,1.32,24.013,20.967,0.264
+0817,MyProtein PulseGel Tropical Storm Flavour,1x porce (50 g),33,3.9,2.25,,
+0817,MyProtein white chocolate chip flavour protein brownie,1x 75g,308,22.5,30.75,,10.5
+0817,tvaroh odtučnený Pilos,1x balení (250 g),172,29.5,10,10,0.75
+0917,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0917,ražničí vepřové,1x 200g,545,36,8,8,5
+0917,Basmati dlouhozrnná rýže loupaná syrová Albert,58x 1g,212,4.872,45.82,,0.696
+0917,mléko polotučné Albert Quality,1x 250 ml,114,8,11.5,,3.75
+0917,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0917,jogurt bílý 2.4% Klasik,1x kelímek (150 g),93,7.35,6.75,6.75,4.05
+0917,Tuňák Rio mare v olivové oleji s chilli papričkami,1x kus (80 g),329,13.6,,,30.4
+0917,paprika zelená,119x 1g,31,1.345,5.462,4.272,0.464
+0917,chléb žitno slunečnicový celozrnný Fit den Penam,1x větší plátek (56 g),139,4.48,18.48,2.24,4.2
+0917,česnek,9.3x 1g,12,0.578,2.329,0.298,0.025
+0917,rajčata cherry,95x 1g,20,0.855,3.42,2.47,0.19
+0718,káva espresso,2x 50ml,4,0.2,,,0.4
+0718,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0718,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0718,tvaroh tučný Pilos,1x balení (250 g),353,22.5,9.5,8.75,22.5
+0718,káva espresso,100x 1ml,4,0.2,,,0.4
+0718,těstoviny vařené průměr,250x 1g,333,8.867,59.355,0.496,6.294
+0718,kuřecí maso dušené,50x 1g,85,13.645,,,3.355
+0718,vařená zelenina (paprika. rajčata. cibule tykev. sůl),15x 1g,5,0.345,0.855,0.27,0.015
+0718,parmazán,10x 1g,39,3.487,0.324,0.3,2.633
+0718,bílý jogurt AH Basic,1x porce (150 g),101,5.7,6.9,6.3,5.7
+0718,ořechy lískové,1x 10 g,68,1.46,1.575,0.43,6.242
+0718,paprika bílá,103x 1g,16,1.03,4.12,,
+0718,ledový salát,174x 1g,28,1.218,3.48,3.062,0.522
+0718,kuřecí maso dušené,100x 1g,170,27.29,,,6.71
+0818,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0818,MyProtein Protein Gel Raspberry Flavour,1x kus (70 g),102,20.3,6.09,6.09,0.14
+0818,Galaretka. smak truskawkowy,42x 1g,21,0.63,4.536,4.536,
+0818,100% mandlové máslo křupavé Grizly,5x 1g,29,1.25,0.35,0.2,2.8
+0818,těstoviny semolinové Penne vařené,180x 1g,268,7.2,54,1.8,1.08
+0818,Impact Whey Protein Chocolate Banana MyProtein,28x 1g,111,20.44,1.764,1.568,2.24
+0818,100% mandlové máslo křupavé Grizly,5x 1g,29,1.25,0.35,0.2,2.8
+0818,MyBar Zero Almond Vanilla,1x balení (65 g),213,19.5,2.6,2.405,8.71
+0818,Sushi Box Ikuno LIDL,200x 1g,309,9,51.2,18.2,6.8
+0818,LR Figuactiv Proteinový nápoj prášek,2x odměrka (12.5 g),93,20,1.075,0.625,0.825
+0918,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0918,jogurt bílý krémový 3.7% Pilos,1x balení (150 g),100,5.85,6.6,6.45,5.55
+0918,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0918,Basmati dlouhozrnná rýže loupaná syrová Albert,58x 1g,212,4.872,45.82,,0.696
+0918,kuřecí prsa na vodě,116x 1g,119,23.2,0.348,,1.392
+0918,rajčata cherry,88x 1g,19,0.792,3.168,2.288,0.176
+0918,jemný tvaroh 2 % tuku Clever,1x balení (250 g),249,40,10.25,10.25,5
+0918,Mandlové mléko neslazené (Almond unsweetened Alpro),200x 1ml,25,0.8,0.2,0.2,2.2
+0918,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0719,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0719,řecký jogurt bílý 0% tuku Milko,200x 1g,115,20,7,5.4,0.6
+0719,ořechy lískové,1x 10 g,68,1.46,1.575,0.43,6.242
+0719,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0719,LR Figuactiv Proteinový nápoj prášek,1x odměrka (12.5 g),46,10,0.538,0.313,0.413
+0719,parmazán,6x 1g,23,2.092,0.194,0.18,1.58
+0719,těstoviny vařené průměr,250x 1g,333,8.867,59.355,0.496,6.294
+0719,kuřecí maso dušené,25x 1g,43,6.823,,,1.678
+0719,rajčata,25x 1g,6,0.24,1.018,0.717,0.058
+0719,bílý jogurt AH Basic,1x porce (150 g),101,5.7,6.9,6.3,5.7
+0719,sardinky ve vlastní štávě Giana,1x balení (90 g),104,21.6,0.09,0.09,1.8
+0719,ořechy kešu,1x 2oříšky (3 g),18,0.524,0.779,0.159,1.367
+0719,Jihočeské mléko trvanlivé polotučné 1.5% Madeta,1x 200ml,92,6.4,9.6,9.6,3
+0719,Nescafé káva classic,1x 1 lžíčka (2 g),2,0.14,0.18,0.18,0.004
+0719,paprika bílá,104x 1g,16,1.04,4.16,,
+0719,vepřová panenka,14x 1g,19,2.867,,,0.757
+0719,kuřecí maso dušené,89x 1g,151,24.288,,,5.972
+0719,ořechy kešu,1x porce (10 g),58,1.745,2.597,0.53,4.557
+0819,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0819,100% mandlové máslo křupavé Grizly,5x 1g,29,1.25,0.35,0.2,2.8
+0819,bramborová polévka,1x malá porce (150 g),87,1.68,9.48,,4.86
+0819,rizoto s kuřecím masem a zeleninou,150x 1g,193,10.05,32.1,,3.6
+0819,domácí štrůdl s jablky a ořechy,1000x 1g,1640,30,220,70,50
+0819,kuřecí maso smažené,250x 1g,528,76.425,4.225,,22.8
+0819,ovocné pendreky,100x 1g,347,0.7,80,60,3
+0919,mléko polotučné Albert Quality,150x 1g,68,4.8,6.9,,2.25
+0919,STAR WARS Kelloggs,30x 1g,114,2.7,23.4,8.7,0.75
+0919,bulgur uvařený,250x 1g,207,7.5,47.5,0.25,0.75
+0919,Kuřecí stripsy velká,1x kus (190 g),648,18.24,60.61,2.85,36.86
+0919,proteinové palačinky čoko kokos Prom in,1x porce (60 g),239,22.98,19.38,1.5,6.48
+0919,Essential pure micellar vanilková příchuť,32x 1g,112,25.28,2.08,2.048,0.416
+0720,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0720,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0720,ořechy kešu,1x porce (10 g),58,1.745,2.597,0.53,4.557
+0720,káva espresso,1x 50ml,2,0.1,,,0.2
+0720,Aljašská treska filety Ocean Sea,150x 1g,113,25.5,,,0.75
+0720,rajčata cherry,1x porce (35 g),8,0.315,1.26,0.91,0.07
+0720,hlávkovy salát,180x 1g,31,2.322,4.518,1.926,0.45
+0720,olivový olej s oregánem Eridanous,2x 1ml,17,,,,1.84
+0720,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0720,ořechy lískové,1x 5g,34,0.73,0.788,0.215,3.121
+0720,ořechy vlašské (walnuts) Alesto,5x 1g,36,0.775,0.185,0.15,3.455
+0720,med včelí,1x lžička (3 g),10,0.008,2.451,2.404,0.001
+0720,paprika bílá,68x 1g,11,0.68,2.72,,
+0820,míchaná vajíčka na cibulce,200x 1g,425,24,4,,34
+0820,kuřecí maso dušené,113x 1g,192,30.838,,,7.582
+0820,paprika bílá,200x 1g,31,2,8,,
+0820,rajčata cherry,147x 1g,32,1.323,5.292,3.822,0.294
+0820,jogurt bílý krémový 3.7% Pilos,100x 1g,66,3.9,4.4,4.3,3.7
+0820,česnek,15x 1g,19,0.932,3.756,0.48,0.041
+0820,100% mandlové máslo křupavé Grizly,5x 1g,29,1.25,0.35,0.2,2.8
+0820,Impact Whey Protein Chocolate Banana MyProtein,50x 1g,198,36.5,3.15,2.8,4
+0820,Galaretka. smak truskawkowy,42x 1g,21,0.63,4.536,4.536,
+0820,LR Figuactiv Proteinový nápoj prášek,2x odměrka (12.5 g),93,20,1.075,0.625,0.825
+0920,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0920,FA Extreme Beef hydrolyzed protrin isolate,1x 40g,137,34,,,
+0920,Bcaa bodylab cola limetka,15x 1g,36,7.8,,,
+0920,Italské houbové rizoto rýže arborio,300x 1g,557,15.9,75,,21.9
+0920,drink Erebos light,1x balení (330 ml),125,0.99,30.36,28.38,0.33
+0920,MiXit vlastní mix ( ovesné vločky. lupínky křupavé. mandle. kokosové lupínky. para ořechy. kávová zrna. vlašské ořechy),60x 1g,260,9.456,32.424,0.756,11.7
+0920,mléko polotučné Albert Quality,100x 1g,45,3.2,4.6,,1.5
+0920,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0920,Bcaa bodylab cola limetka,1x porce (5 g),12,2.6,,,
+0920,mandle loupané celé,1x porce (10 g),64,2.55,0.65,0.4,5.58
+0920,ořechy lískové,10x 1g,68,1.46,1.575,0.43,6.242
+0721,Nescafe Gold,1x porce (7 g),8,0.546,0.217,0.217,0.014
+0721,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0721,tvaroh tučný Pilos,1x balení (250 g),353,22.5,9.5,8.75,22.5
+0721,lečo zeleninové s vejci,500x 1g,275,5,25,,15
+0721,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0721,ořechy vlašské (walnuts) Alesto,10x 1g,71,1.55,0.37,0.3,6.91
+0721,med včelí,1x lžička (3 g),10,0.008,2.451,2.404,0.001
+0721,kuřecí maso dušené,74x 1g,126,20.195,,,4.965
+0721,řecký jogurt bílý 0% tuku Milko,40x 1g,23,4,1.4,1.08,0.12
+0721,ořechy kešu,1x porce (10 g),58,1.745,2.597,0.53,4.557
+0821,jasmínová rýže vařená,210x 1g,237,5.67,52.5,,0.42
+0821,rajčata cherry,95x 1g,20,0.855,3.42,2.47,0.19
+0821,kuřecí maso dušené,105x 1g,179,28.655,,,7.046
+0821,jogurt bílý krémový 3.7% Pilos,70x 1g,47,2.73,3.08,3.01,2.59
+0821,česnek,10x 1g,13,0.621,2.504,0.32,0.027
+0821,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0821,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0821,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0821,okurka salátová,190x 1g,27,1.558,4.332,2.802,0.342
+0821,hlávkovy salát,26x 1g,5,0.335,0.653,0.278,0.065
+0821,rajčata cherry,208x 1g,45,1.872,7.488,5.408,0.416
+0821,vejce slepičí na tvrdo,51x 1g,77,6.416,0.571,,5.411
+0821,kuřecí maso dušené,30x 1g,51,8.187,,,2.013
+0821,česnek,5x 1g,6,0.311,1.252,0.16,0.014
+0821,jogurt bílý krémový 3.7% Pilos,30x 1g,20,1.17,1.32,1.29,1.11
+0821,LR Figuactiv Proteinový nápoj prášek,2x odměrka (12.5 g),93,20,1.075,0.625,0.825
+0921,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0921,řecký jogurt bílý 0% tuku Milko,200x 1g,114,20,7,5.4,0.4
+0921,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0921,Kofola černý rybíz,1x balení (250 ml),85,1.25,20,20,1.25
+0921,kuřecí stehno pečené,135x 1g,189,31.05,,,5.4
+0921,bramborový salát s jogurtem,1x porce (200 g),217,6,22,,12
+0921,krémeš,137x 1g,182,7.261,25.619,,5.343
+0921,mléko polotučné Albert Quality,1x 50ml,23,1.6,2.3,,0.75
+0921,hovězí svíčková steak,1x 300g,338,60.3,,,10.5
+0921,pivo Pilsner Urquell,2x 500 ml,419,5,47,16,
+0921,"Birell Pomelo &amp, Grep",3x balení (500 ml),435,1.95,101.85,,0.75
+0921,Caffe Latte,1x porce (16 g),66,0.608,11.696,,1.792
+0921,brambory opékané,50x 1g,66,1.15,11.55,0.15,1.6
+0622,Active křehké rohlíčky s celozrnnou moukou Bonavita,3x 12g,142,3.6,24.84,2.52,2.412
+0622,rajčata cherry,1x 60g,13,0.54,2.16,1.56,0.12
+0622,šunka vařená delikatesní Dulano 92% masa,1x kus (24 g),26,4.56,0.12,0.096,0.72
+0622,Active jogurt bílý s bifidokulturou Pilos,1x balení (135 g),88,6.075,6.885,6.885,4.05
+0722,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0722,banán,1x kus (110 g),103,1.32,24.013,20.967,0.264
+0722,LR Figuactiv Proteinový nápoj prášek,1x odměrka (12.5 g),46,10,0.538,0.313,0.413
+0722,tvaroh tučný Pilos,1x balení (250 g),353,22.5,9.5,8.75,22.5
+0722,semolinové sušené vaječné těstoviny fettuccine,190x 1g,702,27.93,126.35,5.13,8.17
+0722,ořechy lískové,1x 10 g,68,1.46,1.575,0.43,6.242
+0722,losos norský uzený Ocean Sea,104x 1g,201,19.76,,2.288,13.52
+0722,Tuňák Billa ve vlastní šťávě,1x balení (56 g),57,12.88,,,0.504
+0722,jogurt bílý krémový 3.7% Pilos,100x 1g,66,3.9,4.4,4.3,3.7
+0722,česnek,1x 10g,13,0.621,2.504,0.32,0.027
+0722,paprika bílá,95x 1g,15,0.95,3.8,,
+0722,ořechy kešu,1x 2oříšky (3 g),18,0.524,0.779,0.159,1.367
+0822,mléko polotučné trvanlivé 1.5% Pilos,150x 1ml,69,4.95,7.35,7.35,2.25
+0822,STAR WARS Kelloggs,30x 1g,114,2.7,23.4,8.7,0.75
+0822,lískové ořechy AH Basic,10x 1g,66,1.2,1.05,0.63,6.16
+0822,kuřecí maso dušené,80x 1g,136,21.832,,,5.368
+0822,jasmínová rýže vařená,192x 1g,217,5.184,48,,0.384
+0822,rajčata cherry,72x 1g,15,0.648,2.592,1.872,0.144
+0822,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0822,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0822,banán,1x kus (110 g),103,1.32,24.013,20.967,0.264
+0822,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0822,MyProtein Fermented BCAA,1x porce (15 g),56,13.89,,,
+0822,N1 Pre-Workout NUTREND,1x balení (17 g),5,0.442,0.34,0.051,0.17
+0822,řecký jogurt bílý 0% tuku Milko,250x 1g,144,25,8.75,6.75,0.75
+0822,ořechy mandle neloupané,15x 1g,96,3.062,2.792,0.63,8.016
+0822,mléko polotučné trvanlivé 1.5% Pilos,250x 1ml,115,8.25,12.25,12.25,3.75
+0822,LR Figuactiv Proteinový nápoj prášek,2x odměrka (12.5 g),93,20,1.075,0.625,0.825
+0922,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0922,banán,1x kus (110 g),103,1.32,24.013,20.967,0.264
+0922,Holandské kakao sáček Kávoviny,1x porce (5 g),17,1.23,0.855,0.335,0.685
+0922,řecký jogurt bílý 0% tuku Milko,200x 1g,114,20,7,5.4,0.4
+0922,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0922,Bcaa bodylab cola limetka,17x 1g,41,8.84,,,
+0922,Dýňové indické kari s cizrnou,,350,,,,
+0922,cizrna vařená,1x 50g,69,3.845,11.41,0.18,0.875
+0922,jasmínová rýže vařená,1x 150 g,169,4.05,37.5,,0.3
+0922,sójová omáčka,20x 1ml,12,1.5,1.304,,0.016
+0922,wasabi,1x 10g,28,0.27,5.3,,0.7
+0922,ořechy mandle neloupané,13.6x 1g,87,2.776,2.531,0.571,7.268
+0922,Pragerova limonáda zázvor,1x porce (330 ml),71,0.66,16.863,16.863,
+0922,Essential pure micellar vanilková příchuť,1x porce (30 g),105,23.7,1.95,1.92,0.39
+0922,Bcaa bodylab cola limetka,1x porce (5 g),12,2.6,,,
+0623,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0623,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0623,káva espresso,1x 50ml,2,0.1,,,0.2
+0623,Carnitine 60000 a synephrine,20x 1ml,6,1.3,,,
+0623,instantní čaj Herbalife,4x na 250ml 1.7g (1.7 g),25,0.721,5.399,1.523,0.007
+0623,tvaroh polotučný Milko,1x balení (250 g),230,25,11,9.75,9.5
+0623,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0623,nektarinka,1x kus (145 g),53,1.74,11.6,11.441,0.145
+0623,Latte macchiato,1x porce (300 ml),130,4.2,20.1,19.2,3.6
+0623,voda čistá,1x 0.5 l (500 ml),0,,,,
+0623,voda čistá,1x 0.5 l (500 ml),0,,,,
+0623,Gaspacho Lidl,1x 200ml,74,1.8,5.8,3.8,4.4
+0623,zapečená brokolice se sýrem,1x 150g,223,10.09,14.315,4.305,13.921
+0623,Active křehké rohlíčky s celozrnnou moukou Bonavita,1x 4 ks (50 g),197,5,34.5,3.5,3.35
+0623,rajčata cherry,1x porce (75 g),16,0.675,2.7,1.95,0.15
+0623,voda čistá,2x 0.5 l (500 ml),0,,,,
+0623,šunka vařená delikatesní Dulano 92% masa,1x kus (24 g),26,4.56,0.12,0.096,0.72
+0623,kuřecí maso dušené,1x 100g,170,27.29,,,6.71
+0623,mrkev dušená,1x porce (50 g),22,0.7,4.85,1.725,0.15
+0623,dušený hrášek,50x 1g,56,2,6,,2.5
+0623,vařená kukuřice,50x 1g,48,1.5,9,1.5,1
+0723,mléko polotučné trvanlivé 1.5% Pilos,120x 1ml,55,3.96,5.88,5.88,1.8
+0723,Sojové vločky DM Bio,60x 1g,242,24.6,1.8,1.8,12.6
+0723,ořechy vlašské,5x 1g,35,0.788,0.723,0.192,3.169
+0723,lískové ořechy jádra,5x 1g,33,0.795,0.24,0.16,3.06
+0723,ořechy kešu,5x 1g,29,0.873,1.299,0.265,2.279
+0723,paprika bílá,1x 40g,6,0.4,1.6,,
+0723,rajče cherry keříčkové balené,25x 1g,5,0.25,0.975,0.625,0.05
+0723,zelí bílé,1x 50g,13,0.75,2.25,,0.13
+0723,kuřecí prso vařené,150x 1g,152,34.65,0.015,,0.18
+0723,řecký jogurt bílý 0% tuku Milko,195x 1g,112,19.5,6.825,5.265,0.585
+0723,Albert mandle natural křupavé,1x kus (10 g),63,1.83,1.92,0.48,5.2
+0723,med včelí,1x porce (5 g),17,0.013,4.085,4.007,0.002
+0723,paprika bílá,110x 1g,17,1.1,4.4,,
+0723,sardinky ve slunečnicovém oleji s česnekem Giana,90x 1g,190,21.6,1.53,,10.8
+0723,wasabi,6x 1g,17,0.162,3.18,,0.42
+0723,černý pepř,1x špetka (0.2 g),1,0.024,0.127,,0.017
+0723,jogurt bílý krémový 3.7% Pilos,77x 1g,51,3.003,3.388,3.311,2.849
+0823,řecký jogurt bílý 0% tuku Milko,200x 1g,115,20,7,5.4,0.6
+0823,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0823,jasmínová rýže vařená,275x 1g,310,7.425,68.75,,0.55
+0823,Tuňák Billa ve vlastní šťávě,2x balení (56 g),114,25.76,,,1.008
+0823,rajčata cherry,97x 1g,21,0.873,3.492,2.522,0.194
+0823,Parmazán nebo Grana Padano,4.4x 1g,18,1.452,0.132,0.132,1.276
+0823,Kešu nesolené nepražené ALESTO,14.3x 1g,86,2.688,3.303,1.101,6.721
+0823,fazole černé oko vařené,70x 1g,94,7.371,16.576,,0.49
+0823,kuřecí prsa grilovaná,50x 1g,71,13.35,1.55,,1.75
+0823,fazole vařené,50x 1g,59,3.86,10.405,0.532,0.27
+0823,rýže bílá dlouhozrnná vařená,70x 1g,91,1.883,19.6,,0.196
+0823,rajčata,25x 1g,6,0.24,1.018,0.717,0.058
+0823,ledový salát,20x 1g,3,0.14,0.4,0.352,0.06
+0823,papričky jalapeňo,5x 1g,1,0.068,0.295,,0.031
+0823,parmazán,3x 1g,12,1.046,0.097,0.09,0.79
+0923,Snídaně - koktejl,,111,11.76,6.16,0.28,3.64
+0923,Mandle natural neloupané Grizly,11.2x 1g,67,2.128,0.605,0.605,6.048
+0923,bramborový salát s jogurtem 3.7%,81x 1g,60,2.673,8.019,,1.944
+0923,rýže Basmati dlouhozrnná loupaná Albert Excelent,35x 1g,127,2.94,27.65,,0.42
+0923,kuřecí maso dušené,84x 1g,143,22.924,,,5.636
+0923,Mandle natural neloupané Grizly,12.3x 1g,74,2.337,0.664,0.664,6.642
+0923,Essential Pure CFM 80 protein pistácie Prom-in,1x porce (30 g),118,23.13,1.74,1.74,2.01
+0923,Myprotein MYBAR zero cookies cream flavour,1x balení (65 g),201,20.8,4.225,2.535,5.98
+0923,ořechy vlašské,8.7x 1g,60,1.371,1.257,0.334,5.514
+0923,kokosové chipsy Bio Country Life,10.3x 1g,66,0.361,0.865,0.649,6.716
+0923,paprika bílá,89x 1g,14,0.89,3.56,,
+0923,paprika červená,130x 1g,46,1.3,7.8,5.46,0.39
+0923,okurka salátová,105x 1g,15,0.861,2.394,1.548,0.189
+0923,kuřecí maso dušené,128x 1g,218,34.931,,,8.589
+0923,kuřecí roláda,59x 1g,93,8.26,1.652,,5.9
+0923,kuřecí smažený řízek,19x 1g,71,4.166,5.677,0.186,3.48
+0624,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0624,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0624,káva espresso,1x 50ml,2,0.1,,,0.2
+0624,instantní čaj Herbalife,3x na 250ml 1.7g (1.7 g),19,0.541,4.049,1.142,0.005
+0624,brambory vařené bez slupky,1x menší porce (100 g),67,1.33,15.61,6,0.08
+0624,mrkev dušená,1x porce (50 g),22,0.7,4.85,1.725,0.15
+0624,rajče cherry keříčkové balené,20x 1g,4,0.2,0.78,0.5,0.04
+0624,paprika bílá,1x 30g,5,0.3,1.2,,
+0624,pažitka,1x 5g,2,0.149,0.359,0.08,0.032
+0624,kuřecí maso dušené,2x 100g,340,54.58,,,13.42
+0624,instantní čaj Herbalife,3x na 250ml 1.7g (1.7 g),19,0.541,4.049,1.142,0.005
+0624,mléko polotučné 1.5% tuku,1x 200ml,95,6.76,9.7,9.342,3
+0624,káva espresso,1x 50ml,2,0.1,,,0.2
+0624,Active křehké rohlíčky s celozrnnou moukou Bonavita,2x 12g,95,2.4,16.56,1.68,1.608
+0624,Active Křehké rohlíčky se špaldovou moukou Bonavita,2x kus (12 g),89,2.64,15.36,1.848,1.536
+0624,šunka vařená delikatesní Dulano 92% masa,1x kus (24 g),26,4.56,0.12,0.096,0.72
+0624,rajčata cherry,1x porce (75 g),16,0.675,2.7,1.95,0.15
+0624,mrkev čerstvá,1x větší kus (180 g),63,1.8,13.212,10.086,0.396
+0724,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0724,ořechy kešu,15x 1g,88,2.618,3.896,0.795,6.836
+0724,paprika bílá,1x 80g,12,0.8,3.2,,
+0724,rajče cherry keříčkové balené,25x 1g,5,0.25,0.975,0.625,0.05
+0724,zelí bílé,1x 50g,13,0.75,2.25,,0.13
+0724,kuřecí prso vařené,200x 1g,202,46.2,0.02,,0.24
+0724,jogurt bílý krémový 3.7% Pilos,1x balení (150 g),100,5.85,6.6,6.45,5.55
+0724,paprika bílá,78x 1g,12,0.78,3.12,,
+0724,kuřecí maso dušené,97x 1g,165,26.471,,,6.509
+0824,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0824,míchaná zelenina s máslem,1x porce (150 g),156,3,9,4.5,9
+0824,kuřecí smažený řízek,200x 1g,744,43.851,59.757,1.96,36.626
+0824,Jerky hovězí sušené maso,1x balení (25 g),61,12.5,0.25,0.025,1
+0824,Impact Whey Protein Chocolate Banana MyProtein,31x 1g,123,22.63,1.953,1.736,2.48
+0824,Kešu nesolené nepražené ALESTO,2x 1g,12,0.376,0.462,0.154,0.94
+0824,Bílé fazole v rajčatové omáčce Freshona,420x 1g,366,15.54,58.8,18.9,2.94
+0824,Kešu nesolené nepražené ALESTO,1x 30g,180,5.64,6.93,2.31,14.1
+0924,kuřecí roláda,72x 1g,113,10.08,2.016,,7.2
+0924,rajčata cherry,25x 1g,5,0.225,0.9,0.65,0.05
+0924,bramborová kaše s mlékem a máslem,120x 1g,135,2.244,20.124,,5.064
+0924,vepřová panenka,50x 1g,68,10.24,,,2.705
+0924,Essential Pure CFM 80 protein pistácie Prom-in,49.2x 1g,193,37.933,2.854,2.854,3.296
+0924,MiXit vlastní mix ( ovesné vločky. lupínky křupavé. mandle. kokosové lupínky. para ořechy. kávová zrna. vlašské ořechy),50x 1g,216,7.88,27.02,0.63,9.75
+0924,salát ředkvičkový,172x 1g,181,20.64,6.88,,8.6
+0924,kuřecí smažený řízek,22x 1g,82,4.824,6.573,0.216,4.029
+0924,kuřecí plněná rolka,53x 1g,83,3.816,3.763,0.901,5.724
+0924,mléko polotučné Albert Quality,200x 1g,91,6.4,9.2,,3
+0924,Mandle natural neloupané Grizly,10x 1g,60,1.9,0.54,0.54,5.4
+0924,Essential pure micellar vanilková příchuť,25x 1g,87,19.75,1.625,1.6,0.325
+0924,sýr eidam 30% tuku Bluedino,59x 1g,155,15.93,0.295,0.295,10.03
+0625,špagety Dolmio s vepřovým masem,335x 1g,376,22.78,19.43,,24.455
+0625,meloun vodní,1x 1000 g,282,6.5,60,60,1.7
+0625,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0625,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0725,ořechy kešu,1x 2oříšky (3 g),18,0.524,0.779,0.159,1.367
+0725,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0725,Jihočeský tvaroh tučný Madeta,1x balení (250 g),318,21.25,8,8,22.5
+0725,banán,1x kus (110 g),103,1.32,24.013,20.967,0.264
+0725,paprika bílá,174x 1g,27,1.74,6.96,,
+0725,rajčata cherry,175x 1g,38,1.575,6.3,4.55,0.35
+0725,kuřecí maso dušené,135x 1g,230,36.842,,,9.059
+0725,těstoviny kolínka Clever,10x 1g,37,1.22,7.61,0.53,0.09
+0725,UGO Passion. banán. mango. jablko. pomeranč,3x 100 ml,228,2.1,51,45,
+0725,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0725,ořechy vlašské Alesto,10x 1g,71,1.55,0.37,0.3,6.91
+0725,med včelí,1x porce (5 g),17,0.013,4.085,4.007,0.002
+0725,ořechy kešu,1.5x 1g,9,0.262,0.39,0.08,0.684
+0725,mandlové mléko take it veggie,150x 1ml,44,0.75,6.15,4.65,1.65
+0725,kuřecí maso dušené,1x 100g,170,27.29,,,6.71
+0725,paprika bílá,122x 1g,19,1.22,4.88,,
+0825,káva espresso,200x 1ml,8,0.4,,,0.8
+0825,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0825,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0925,LR Figuactiv Instantní nápoj Latte-Macchiato prášek,1x porce prášku (28 g),111,11.76,6.16,0.28,3.64
+0925,Essential Pure CFM 80 protein pistácie Prom-in,12.5x 1g,49,9.638,0.725,0.725,0.838
+0925,Parmazán nebo Grana Padano,8x 1g,32,2.64,0.24,0.24,2.32
+0925,špagety vařené,250x 1g,359,11.925,70.85,1.4,1.675
+0925,dýně vařená,50x 1g,13,0.5,3.25,1.5,0.05
+0925,Jablko Granny Smith,125x 1g,65,,16.25,12.5,
+0925,mléko polotučné Albert Quality,200x 1g,91,6.4,9.2,,3
+0925,měkký tvaroh Clever,1x kus (250 g),168,30,10,8.75,1.25
+0925,Essential pure micellar vanilková příchuť,1x porce (30 g),105,23.7,1.95,1.92,0.39
+0925,Essential Pure CFM 80 protein pistácie Prom-in,12.5x 1g,49,9.638,0.725,0.725,0.838
+0925,okurka salátová,79x 1g,11,0.648,1.801,1.165,0.142
+0925,paprika bílá,97.7x 1g,15,0.977,3.908,,
+0925,Eidam sýr 30 % tuku. plátkový,43x 1g,113,11.61,0.774,0.43,6.751
+0925,šunka z krůtích prsou Dulano,25.7x 1g,27,5.14,0.257,0.231,0.514
+0925,vejce slepičí na tvrdo,53.5x 1g,80,6.73,0.599,,5.676
+0626,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0626,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0626,káva espresso,1x malá (30 ml),1,0.06,,,0.12
+0626,Carnitine 60000 a synephrine,20x 1ml,6,1.3,,,
+0626,tvaroh odtučněný Pilos,1x balení (250 g),169,29.5,10,8.75,0.75
+0626,instantní čaj Herbalife,4x na 250ml 1.7g (1.7 g),25,0.721,5.399,1.523,0.007
+0626,banán,1x kus (120 g),113,1.44,26.196,22.873,0.288
+0626,špagety Dolmio s vepřovým masem,384x 1g,431,26.112,22.272,,28.032
+0626,okurka salátová,1x 100 g,14,0.82,2.28,1.475,0.18
+0626,kedlubna bílá,1x 215g,57,2.58,11.61,6.88,0.215
+0626,paprika bílá,225x 1g,35,2.25,9,,
+0626,rajčata cherry,1x porce (70 g),15,0.63,2.52,1.82,0.14
+0626,Sýr Gouda light,1x kus (15 g),37,3.9,,,2.4
+0626,tvaroh plnotučný Pilos,70x 1g,92,6.3,2.66,2.45,6.3
+0626,kopr,5x 1g,2,0.117,0.375,0.04,0.01
+0726,Mazagrande coffe lemonade,1x porce (250 ml),69,0.25,16,15.5,0.25
+0726,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0726,Jihočeský tvaroh polotučný Madeta,1x balení (250 g),237,25.5,9,9,11
+0726,dušená zelenina brokolice. květák. mrkev,250x 1g,54,3.75,7.25,,0.5
+0726,kuřecí maso pečené,180x 1g,330,52.074,,,13.338
+0726,rajčata cherry,1x porce (35 g),8,0.315,1.26,0.91,0.07
+0726,paprika bílá,1x 50g,8,0.5,2,,
+0726,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0726,med včelí,1x porce (5 g),17,0.013,4.085,4.007,0.002
+0726,ořechy lískové,10x 1g,68,1.46,1.575,0.43,6.242
+0726,ořechy kešu,1x porce (10 g),58,1.745,2.597,0.53,4.557
+0726,LR Figuactiv Linée +3 prášek,1x odměrka (3.5 g),9,0.147,1.19,0.875,0.018
+0726,kuřecí maso dušené,46x 1g,78,12.553,,,3.087
+0726,paprika bílá,76x 1g,12,0.76,3.04,,
+0926,Essential Pure CFM 80 protein pistácie Prom-in,12.5x 1g,49,9.638,0.725,0.725,0.838
+0926,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0926,Mandle natural neloupané Grizly,8.4x 1g,51,1.596,0.454,0.454,4.536
+0926,MiXit vlastní mix ( ovesné vločky. lupínky křupavé. mandle. kokosové lupínky. para ořechy. kávová zrna. vlašské ořechy),35x 1g,152,5.516,18.914,0.441,6.825
+0926,bramborová kaše s mlékem a máslem,329x 1g,370,6.152,55.173,,13.884
+0926,vepřová panenka,67x 1g,91,13.722,,,3.625
+0926,Italský listový salát locika setá,9x 1g,1,0.09,,,
+0926,rajče cherry keříčkové balené,50x 1g,11,0.5,1.95,1.25,0.1
+0926,řecký jogurt bílý 0% tuku Milko,200x 1g,114,20,7,5.4,0.4
+0926,Essential Pure CFM 80 protein pistácie Prom-in,30x 1g,118,23.13,1.74,1.74,2.01
+0926,zizu kuřecí stripsy obalované,271.4x 1g,524,48.852,29.854,2.714,22.255
+0627,Carnitine 60000 a synephrine,20x 1ml,6,1.3,,,
+0627,instantní čaj Herbalife,4x na 250ml 1.7g (1.7 g),25,0.721,5.399,1.523,0.007
+0627,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0627,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0627,káva espresso,4x 50ml,8,0.4,,,0.8
+0627,řecký jogurt bílý 0% tuku Milko,1x kelímek (140 g),81,14,4.9,3.78,0.42
+0627,nektarinka,1x 120 g,44,1.44,9.6,9.468,0.12
+0627,čaj zelený bez cukru,1x 500ml,2,,0.5,,
+0627,špagety Dolmio s vepřovým masem,385x 1g,432,26.18,22.33,,28.105
+0627,Active jogurt bílý s bifidokulturou Pilos,1x balení (135 g),88,6.075,6.885,6.885,4.05
+0627,káva espresso,200x 1ml,8,0.4,,,0.8
+0627,okurka salátová,179x 1g,25,1.468,4.081,2.64,0.322
+0627,paprika bílá,94x 1g,15,0.94,3.76,,
+0627,rajčata,118x 1g,26,1.133,4.803,3.386,0.271
+0627,hlávkovy salát,120x 1g,21,1.548,3.012,1.284,0.3
+0627,Dulano špičková kvalita dušená šunka uzená,3x plátek (7 g),22,4.2,0.21,0.189,0.42
+0727,mandlové mléko take it veggie,1x 250ml,73,1.25,10.25,7.75,2.75
+0727,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0727,celozrný chléb plus Vamex,1x 100 g,247,10.2,39.3,2.6,3.5
+0727,ořechy lískové,15x 1g,103,2.19,2.363,0.645,9.363
+0727,bulgur uvařený,300x 1g,249,9,57,0.3,0.9
+0727,kuřecí maso dušené,50x 1g,85,13.645,,,3.355
+0727,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0727,med včelí,1x porce (5 g),17,0.013,4.085,4.007,0.002
+0727,ořechy lískové,10x 1g,68,1.46,1.575,0.43,6.242
+0727,ořechy kešu,1x porce (10 g),58,1.745,2.597,0.53,4.557
+0727,LR Figuactiv Linée +3 prášek,1x odměrka (3.5 g),9,0.147,1.19,0.875,0.018
+0727,hrách loupaný čerstvý,35x 1g,17,1.365,2.835,2.835,0.035
+0727,fazole vařené,1x porce (150 g),178,11.58,31.215,1.595,0.81
+0927,Essential Pure CFM 80 protein pistácie Prom-in,12.5x 1g,49,9.638,0.725,0.725,0.838
+0927,Snídaně - koktejl,,111,11.76,6.16,0.28,3.64
+0927,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0927,Bylinková kuřecí prsa v tortille se zeleninou,,495,,,,
+0927,FA Extreme Beef hydrolyzed protrin isolate,1x 40g,137,34,,,
+0927,banán,1x kus (110 g),103,1.32,24.013,20.967,0.264
+0927,Nutrend CFM 34 protein bar marzipan,1x 80g,326,27.04,26.64,19.12,12.08
+0628,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0628,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0628,ananas,1x 100 g,54,0.49,12.7,10.125,0.19
+0628,řecký jogurt bílý 0% tuku Milko,1x kelímek (140 g),81,14,4.9,3.78,0.42
+0628,quinoa vařená,2.5x 100g,300,11,53.25,2.25,4.75
+0628,restovane kuřecí kousky se zeleninovou směsí,1x 200g,177,17.2,12,,5.2
+0628,tvaroh odtučněný Pilos,1x balení (250 g),169,29.5,10,8.75,0.75
+0628,Pistáciová zmrzlina kopeček,1x porce (50 g),85,,12,,3
+0628,křen syrový,1x 50g,37,1.36,7.675,2.82,0.155
+0628,hovězí rib eye,300x 1g,540,60,,,30
+0628,voda s citrónem,1x 1000ml,18,0.3,3.7,1.1,
+0628,grilovaná zelenina (lilek. cuketa. papriky. lžička oleje a bylinky),1x 250g,164,3,11.75,,11
+0628,jahodový dort s mascarpone,1x 100g,214,4,22,,12
+0628,Birell Polotmavý Citrón,1x 500ml,177,,43,35.5,
+0728,Snídaně - koktejl,,233,12.41,23.94,0.28,8.965
+0728,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0728,lískové ořechy jádra,1x porce (10 g),66,1.59,0.48,0.32,6.12
+0728,mandlové mléko take it veggie,200x 1ml,58,1,8.2,6.2,2.2
+0728,fazole vařené,200x 1g,237,15.44,41.62,2.126,1.08
+0728,bílý jogurt AH Basic,1x porce (150 g),101,5.7,6.9,6.3,5.7
+0728,paprika červená,124x 1g,44,1.24,7.44,5.208,0.372
+0728,kuřecí maso dušené,1x 100g,170,27.29,,,6.71
+0728,ledový salát,100x 1g,16,0.7,2,1.76,0.3
+0728,olej olivový extra panenský,1x porce (5 ml),41,,,,4.55
+0728,ořechy kešu,1x porce (10 g),58,1.745,2.597,0.53,4.557
+0828,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0928,Essential Pure CFM 80 protein pistácie Prom-in,45x 1g,177,34.695,2.61,2.61,3.015
+0928,brambory vařené v páře,100x 1g,80,1.4,18,7,
+0928,losos pečený s kůží,110x 1g,115,22,3.3,,14.3
+0928,zizu kuřecí stripsy obalované,150x 1g,290,27,16.5,1.5,12.3
+0928,řecký jogurt bílý 0% tuku Milko,155x 1g,88,15.5,5.425,4.185,0.31
+0928,Essential pure micellar vanilková příchuť,35x 1g,122,27.65,2.275,2.24,0.455
+0928,čokoláda hořká 70% s lískovými ořechy Carla,19x 1g,106,1.748,5.7,4.75,7.98
+0928,mléko polotučné trvanlivé 1.5% Pilos,150x 1ml,69,4.95,7.35,7.35,2.25
+0928,Mandle natural neloupané Grizly,8x 1g,48,1.52,0.432,0.432,4.32
+0928,kokosové chipsy Bio Country Life,8x 1g,51,0.28,0.672,0.504,5.216
+0629,LR Figuactiv Instantní nápoj vanilka prášek,1x porce prášku (28 g),112,11.76,6.44,0.28,3.64
+0629,zajíc rýžový nápoj,1x porce (25 g),121,0.65,17.5,,5.325
+0629,ananas,1x 100 g,54,0.49,12.7,10.125,0.19
+0629,tvaroh odtučněný Pilos,1x balení (250 g),169,29.5,10,8.75,0.75
+0629,káva espresso,4x 50ml,8,0.4,,,0.8
+0629,fazolové lusky zelené mražené Lidl,1x 200g,66,4,7.4,2,0.2
+0629,kuřecí maso dušené,1x 100g,170,27.29,,,6.71
+0629,káva espresso,2x 50ml,4,0.2,,,0.4
+0629,okurka salátová,212x 1g,30,1.738,4.834,3.126,0.382
+0629,paprika bílá,114x 1g,18,1.14,4.56,,
+0629,rajčata,156x 1g,35,1.498,6.349,4.476,0.359
+0629,hlávkovy salát,130x 1g,23,1.677,3.263,1.391,0.325
+0629,kedlubna bílá,232x 1g,61,2.784,12.528,7.424,0.232
+0629,sýr eidam 30% tuku Bluedino,1x plátek (20 g),53,5.4,0.1,0.1,3.4
+0629,olej olivový extra panenský,17x 1g,140,,,,15.47
+0729,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0729,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0729,Jihočeský tvaroh tučný Madeta,1x balení (250 g),318,21.25,8,8,22.5
+0729,LR Figuactiv Proteinový nápoj prášek,1x odměrka (12.5 g),46,10,0.538,0.313,0.413
+0729,aljašská treska filety,60x 1g,45,10.2,,,0.48
+0729,paprika červená,111x 1g,39,1.11,6.66,4.662,0.333
+0729,rajčata,117x 1g,26,1.123,4.762,3.357,0.269
+0729,ledový salát,104x 1g,17,0.728,2.08,1.83,0.312
+0729,citrónová šťáva čerstvá,1x 20g,6,,1.4,,
+0729,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0729,ořechy vlašské (walnuts) Alesto,15x 1g,107,2.325,0.555,0.45,10.365
+0729,mandlové mléko take it veggie,200x 1ml,58,1,8.2,6.2,2.2
+0729,Jacobs Velvet,1x porce (200 ml),5,,,,
+0729,fazole vařené,180x 1g,214,13.896,37.458,1.913,0.972
+0729,ořechy kešu,11x 1g,64,1.92,2.857,0.583,5.013
+0929,Essential Pure CFM 80 protein pistácie Prom-in,12.5x 1g,49,9.638,0.725,0.725,0.838
+0929,Snídaně - koktejl,,111,11.76,6.16,0.28,3.64
+0929,Jogurtový koláč s jablky nízkotučný,48.3x 1g,78,3.546,13.584,5.725,1.023
+0929,Mandle natural neloupané Grizly,11.7x 1g,70,2.223,0.632,0.632,6.318
+0929,krůtí maso bez kůže. vařené. pečené,110x 1g,151,25.3,,,5.5
+0929,jasmínová rýže vařená,149x 1g,168,4.023,37.25,,0.298
+0929,okurka salátová,75.9x 1g,11,0.622,1.731,1.119,0.137
+0929,rajčata cherry,45x 1g,10,0.405,1.62,1.17,0.09
+0929,Essential Pure CFM 80 protein pistácie Prom-in,12.5x 1g,49,9.638,0.725,0.725,0.838
+0929,proteinové palačinky čoko kokos Prom in,85x 1g,339,32.555,27.455,2.125,9.18
+0929,rohlík tukový,44.2x 1g,127,3.978,24.31,0.442,1.326
+0929,Dulano Selection krůtí šunka uzená,50.9x 1g,76,15.779,0.509,0.509,1.018
+0929,Eidam sýr 30 % tuku. plátkový,47.1x 1g,124,12.717,0.848,0.471,7.395
+0929,rajčata,142x 1g,31,1.363,5.779,4.074,0.327
+0630,LR Figuactiv tyčinka s nugátovou příchutí,1x tyčinka (60 g),234,16.8,21,13.8,7.8
+0630,Orbit žvýkačka,1x dražé (1 g),1,,0.6,,
+0630,káva espresso,4x 50ml,8,0.4,,,0.8
+0630,tvaroh odtučněný Pilos,1x balení (250 g),169,29.5,10,8.75,0.75
+0630,fazolové lusky zelené mražené Lidl,1x 200g,66,4,7.4,2,0.2
+0630,kuřecí maso dušené,1x 100g,170,27.29,,,6.71
+0630,káva espresso,2x 50ml,4,0.2,,,0.4
+0630,Active jogurt bílý s bifidokulturou Pilos,1x balení (135 g),88,6.075,6.885,6.885,4.05
+0630,sýr eidam 30% tuku Bluedino,1x plátek (20 g),53,5.4,0.1,0.1,3.4
+0630,wasabi,1x 1g,3,0.027,0.53,,0.07
+0630,Just Hovězí bujón bez tuku,3x 1g,0,0.006,0.003,0.003,
+0630,paprika bílá,85x 1g,13,0.85,3.4,,
+0630,rajčata,117x 1g,26,1.123,4.762,3.357,0.269
+0630,hlávkovy salát,127x 1g,22,1.638,3.188,1.359,0.318
+0630,olej olivový extra panenský,8x 1g,66,,,,7.28
+0630,"tuňák ve vlastní šťávě Sun &amp, Sea",1x 56g,67,14.56,,,0.84
+0730,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0730,kuřecí maso pečené,1x 100g,183,28.93,,,7.41
+0730,Eidam sýr 30 % tuku. plátkový,2x kus (16.7 g),88,9.018,0.601,0.334,5.244
+0730,cuketa pečená s rajčetem. sýrem a olivovým olejem,40x 1g,48,2.372,1.008,0.72,3.876
+0730,rýže červená Natural Arax,1x 50g,208,4.5,42.5,,1.5
+0730,hrách loupaný čerstvý,35x 1g,17,1.365,2.835,2.835,0.035
+0730,sardinky v tomatové omáčce Giana,90x 1g,145,12.51,2.25,1.44,9.54
+0730,káva espresso,1x 50ml,2,0.1,,,0.2
+0730,rajčata cherry,38x 1g,8,0.342,1.368,0.988,0.076
+0730,ořechy mandle neloupané,1x porce (10 g),64,2.041,1.861,0.42,5.344
+0730,ledový salát,100x 1g,16,0.7,2,1.76,0.3
+0730,kuřecí maso dušené,60x 1g,102,16.374,,,4.026
+0730,lískové ořechy AH Basic,25x 1g,165,3,2.625,1.575,15.4
+0830,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0830,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0830,mandle plátky Albert,10x 1g,62,2.4,1,0.69,5.4
+0830,coleslaw salát,150x 1g,170,,5.85,,16.5
+0830,krůtí maso bez kůže. vařené. pečené,148x 1g,203,34.04,,,7.4
+0830,mandle plátky Albert,10x 1g,62,2.4,1,0.69,5.4
+0830,řecký jogurt bílý 0% tuku Milko,250x 1g,144,25,8.75,6.75,0.75
+0830,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0830,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0830,Impact Whey Protein Chocolate Banana MyProtein,30x 1g,119,21.9,1.89,1.68,2.4
+0830,banán,1x menší kus (65 g),61,0.78,14.19,12.39,0.156
+0830,LR Figuactiv Proteinový nápoj prášek,1x odměrka (12.5 g),46,10,0.538,0.313,0.413
+0830,Almendrola mandlový nápoj neslazený,200x 1ml,34,0.6,0.6,0.2,3.2
+0930,Essential pure micellar vanilková příchuť,10x 1g,35,7.9,0.65,0.64,0.13
+0930,Snídaně - koktejl,,111,11.76,6.16,0.28,3.64
+0930,jasmínová rýže vařená,150x 1g,169,4.05,37.5,,0.3
+0930,krůtí maso bez kůže. vařené. pečené,100x 1g,137,23,,,5
+0930,mléko polotučné trvanlivé 1.5% Pilos,1x 250ml,115,8.25,12.25,12.25,3.75
+0930,čokoláda hořká 70% s lískovými ořechy Carla,9.3x 1g,52,0.856,2.79,2.325,3.906
+0930,Mandle natural neloupané Grizly,14.8x 1g,89,2.812,0.799,0.799,7.992
+0930,ořechy vlašské,8.3x 1g,57,1.308,1.199,0.319,5.261
+0930,řecký jogurt bílý 0% tuku Milko,200x 1g,114,20,7,5.4,0.4
+0930,Essential pure micellar vanilková příchuť,32x 1g,112,25.28,2.08,2.048,0.416
+0930,Mandle natural neloupané Grizly,11x 1g,66,2.09,0.594,0.594,5.94
+0930,piškotová roláda s čokoládovou náplní a banánem,43x 1g,107,1.247,12.298,0.688,3.999
+0930,okurka salátová,130x 1g,18,1.066,2.964,1.917,0.234
+0930,rajčata,92x 1g,20,0.883,3.744,2.64,0.212
+0930,Eidam sýr 30 % tuku. plátkový,23x 1g,60,6.21,0.414,0.23,3.611
+0930,šunka vepřová dušená nejvyšší jakosti,30x 1g,35,5.7,0.15,,1.35
+0930,paprika bílá,65x 1g,10,0.65,2.6,,
+0930,Mandle natural neloupané Grizly,12x 1g,72,2.28,0.648,0.648,6.48
+0731,Snídaně - koktejl,,112,11.76,6.44,0.28,3.64
+0731,řecký jogurt bílý 0% tuku Milko,162x 1g,93,16.2,5.67,4.374,0.486
+0731,lískové ořechy AH Basic,15x 1g,99,1.8,1.575,0.945,9.24
+0731,rýže červená Natural Arax,115x 1g,478,10.35,97.75,,3.45
+0731,hovězí maso vařené,78x 1g,133,19.211,0.289,,6.1
+0731,jogurt bílý krémový 3.7% Pilos,1x balení (150 g),100,5.85,6.6,6.45,5.55
+0731,ořechy mandle neloupané,1x porce (10 g),64,2.041,1.861,0.42,5.344
+0731,Mokate To Go Latte Classic. Latte macchiato,1x porce (22 g),102,4.466,10.846,,4.554
+0731,banán,1x střední banán (90 g),85,1.08,19.647,17.155,0.216
+0731,Sprite Zero,50x 1ml,1,,,,
+0731,paprika bílá,97x 1g,15,0.97,3.88,,
+0731,ledový salát,61x 1g,10,0.427,1.22,1.074,0.183
+0731,rajčata cherry,33x 1g,7,0.297,1.188,0.858,0.066
+0731,kuřecí maso dušené,130x 1g,221,35.477,,,8.723
+0831,mléko polotučné trvanlivé 1.5% Pilos,200x 1ml,92,6.6,9.8,9.8,3
+0831,STAR WARS Kelloggs,28x 1g,107,2.52,21.84,8.12,0.7
+0831,míchaná vajíčka na cibulce,200x 1g,425,24,4,,34
+0831,okurka salátová,15x 1g,2,0.123,0.342,0.221,0.027
+0831,coleslaw salát,150x 1g,170,,5.85,,16.5
+0831,krůtí maso bez kůže. vařené. pečené,149x 1g,204,34.27,,,7.45
+0831,řecký jogurt bílý 0% tuku Milko,150x 1g,86,15,5.25,4.05,0.45
+0831,mandle plátky Albert,10x 1g,62,2.4,1,0.69,5.4
+0831,banán,1x menší kus (65 g),61,0.78,14.19,12.39,0.156
+0831,BCAA MyProtein,1x dávka (10 g),32,9.5,,,
+0831,Carnitine 60000 a synephrine,30x 1ml,9,1.95,,,
+0831,řecký jogurt bílý 0% tuku Milko,250x 1g,144,25,8.75,6.75,0.75
+0831,mandle plátky Albert,10x 1g,62,2.4,1,0.69,5.4
+0831,Kešu nesolené nepražené ALESTO,12.1x 1g,73,2.275,2.795,0.932,5.687
+0831,kuřecí maso dušené,25.4x 1g,43,6.932,,,1.704
+0831,LR Figuactiv Proteinový nápoj prášek,2x odměrka (12.5 g),93,20,1.075,0.625,0.825

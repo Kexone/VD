@@ -29,15 +29,12 @@ d3.csv("test.csv", function(error,values) {
 	  all = allValues.groupAll(),
 	  date = allValues.dimension(function(d) { return d.date; }),
 	  dates = date.group(d3.time.day),
-	  kcal = allValues.dimension(function(d) { return d.kcal; }),
+	  kcal = allValues.dimension(function(d) { return Math.max(0, Math.min(2000, d.kcal)); }),
 	  kcalls = kcal.group(Math.floor),
-	  fat = allValues.dimension(function(d) { return d.fat}),
+	  fat = allValues.dimension(function(d) { return(Math.max(0, d.fat));}),
 	  fats = fat.group(Math.floor),
-	  protein = allValues.dimension(function(d) { return d.protein }),
+	  protein = allValues.dimension(function(d) { return Math.max(0, Math.min(60, d.protein)); }),
 	  proteins = protein.group(Math.floor);
-
-
-	  console.log(values);
 
 
 	  var charts = [
@@ -46,21 +43,21 @@ d3.csv("test.csv", function(error,values) {
 	  .dimension(kcal)
 	  .group(kcalls)
 	  .x(d3.scale.linear()
-	  	.domain([0, 450])
+	  	.domain([0, 1700])
 	  	.rangeRound([0, 10 * 21])),
 
 	  barChart()
 	  .dimension(protein)
 	  .group(proteins)
 	  .x(d3.scale.linear()
-	  	.domain([0, 100])
+	  	.domain([-1, 60])
 	  	.rangeRound([0, 10 * 21])),
 
 	  barChart()
 	  .dimension(fat)
 	  .group(fats)
 	  .x(d3.scale.linear()
-	  	.domain([0, 100])
+	  	.domain([0, 60])
 	  	.rangeRound([0, 10 * 21])),
 
 	  barChart()
@@ -68,9 +65,8 @@ d3.csv("test.csv", function(error,values) {
 	  .group(dates)
 	  .round(d3.time.day.round)
 	  .x(d3.time.scale()
-	  	.domain([new Date(2017, 6, 22), new Date(2017, 10, 22)])
+	  	.domain([new Date(2017, 5, 21), new Date(2017, 9, 21)])
 	  	.rangeRound([0, 10 * 90]))
-	  .filter([new Date(2017, 6, 22), new Date(2017, 10, 22)])
 
 	  ];
 
@@ -84,7 +80,6 @@ d3.csv("test.csv", function(error,values) {
 	//print total of values
 	d3.selectAll("#total")
 	.text(formatNumber(allValues.size()));
-
 	drawAll();
 
 	function draw(method) {
@@ -128,7 +123,7 @@ d3.csv("test.csv", function(error,values) {
 			date.exit().remove();
 
 			var foods = date.order().selectAll(".food")
-			.data(function(d) { return d.values; }, function(d) { return d.index; });
+			.data(function(d) { return d.values; }, function(d) { return d.id; });
 
 			var foodEntry = foods.enter().append("div")
 			.attr("class", "food");
