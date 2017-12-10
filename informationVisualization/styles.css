@@ -1,0 +1,173 @@
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz|Indie+Flower|Roboto:400,700);
+
+
+body {
+  font-family: "Helvetica Neue";
+  margin: 40px auto;
+  width: 960px;
+  min-height: 2000px;
+}
+
+#body {
+  text-align: center;
+  position: relative;
+}
+
+footer {
+  padding: 2em 0 1em 0;
+  font-size: 12px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 96px;
+  margin-top: .3em;
+  margin-bottom: 0;
+}
+
+h1 + h2 {
+  margin-top: 0;
+}
+
+h2 {
+  text-align: center;
+  font-weight: 400;
+  font-size: 28px;
+}
+
+h1 {
+  font-family: "Yanone Kaffeesatz";
+  text-rendering: optimizeLegibility;
+}
+h2 {
+  font-family: "Indie Flower";
+  text-rendering: optimizeLegibility;
+}
+
+#body > p {
+  line-height: 1.5em;
+  width: 840px;
+  text-rendering: optimizeLegibility;
+}
+
+#charts {
+  padding: 10px 0;
+}
+
+.chart {
+  display: inline-block;
+  height: 151px;
+  margin-bottom: 20px;
+}
+
+.reset {
+  padding-left: 1em;
+  font-size: smaller;
+  color: #ccc;
+}
+
+.background.bar {
+  fill: #bbb;
+}
+
+.foreground.bar {
+  fill: green;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.brush rect.extent {
+  fill: green;
+  fill-opacity: .2025;
+}
+
+.brush .resize path {
+  fill: #00ff00;
+  stroke: #666;
+}
+
+#calories-chart {
+  fill: blue;
+  width: 260px;
+}
+
+#protein-chart {
+  width: 230px;
+}
+
+#fat-chart {
+  width: 420px;
+}
+
+#date-chart {
+  width: 920px;
+}
+
+#food-list {
+  min-height: 1024px;
+  min-width: : 1024px;
+}
+
+#food-list .date,
+#food-list .day {
+  text-align: left;
+  margin-bottom: .4em;
+}
+
+#food-list .food {
+  line-height: 1.5em;
+  background: azure;
+
+  width: 920px;
+  margin-bottom: 1px;
+}
+
+#food-list .food div {
+  display: inline-table;
+  width: 130px;
+}
+
+.name {
+  color: green;
+  display: justify;
+}
+
+.quantity {
+  color: green;
+}
+
+.headers {
+  color: #888;
+  word-spacing: 75px;
+}
+
+.kcal {
+  color: green;
+}
+.protein {
+  color: green;
+}
+.carbohydrates {
+  color: green;
+}
+.sugar {
+  color: green;
+}
+.fat {
+  color: green;
+}
+
+aside {
+  position: absolute;
+  left: 770px;
+  font-size: smaller;
+  width: 220px;
+}

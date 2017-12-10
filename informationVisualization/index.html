@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>VD</title>
+
+<link rel="stylesheet" href="styles.css" type="text/css" />
+
+<div id="body">
+	
+	<h1>Data Visualization</h1>
+	<h2>Overview my statistics on Kaloricke Tabulky</h2>
+	<div id="charts">
+		<div id="calories-chart" class="chart">
+			<div class="title">Calories</div>
+		</div>
+		<div id="protein-chart" class="chart">
+			<div class="title">Protein</div>
+		</div>
+		<div id="fat-chart" class="chart">
+			<div class="title">Fat</div>
+		</div>
+		<div id="date-chart" class="chart">
+			<div class="title">Date</div>
+		</div>
+	</div>
+	
+	<aside id="totals"><span id="active">-</span> of <span id="total">-</span> food selected.</aside>
+	<br><br><br>
+	<div id="lists">
+
+		<div id="food-list" class="list"></div>
+
+	</div>
+	<footer>
+	</footer>
+</div>
+
+<script src="crossfilter.min.js"></script>
+<script src="d3.v3.min.js"></script>
+<script src=script.js></script>
