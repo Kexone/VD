@@ -244,7 +244,7 @@ void Volume::Raycast( Camera & camera, const int samples )
 
 	const int no_threads = omp_get_max_threads();
 	omp_set_num_threads( no_threads );
-	std::vector<CellHit> * traversed_cells = new std::vector<CellHit>[no_threads];
+	std::vector<CellHit> * traversed = new std::vector<CellHit>[no_threads];
 
 	const float ds = 1 / static_cast< float >( samples ); // jittered sampling
 
@@ -289,11 +289,11 @@ void Volume::Raycast( Camera & camera, const int samples )
 						cv::waitKey( 10 );
 					}
 
-					Traverse( ray, traversed_cells[tid] );
+					Traverse( ray, traversed[tid] );
 
-					for ( int i = 0; i < traversed_cells[tid].size(); ++i )
+					for ( int i = 0; i < traversed[tid].size(); ++i )
 					{
-						auto hit = traversed_cells[tid][i];
+						auto hit = traversed[tid][i];
 						Cell actual_cell = cell(hit.indices);
 						auto t = actual_cell.find_iso_surface(ray, hit.t_0, hit.t_1, 0.25f);
 

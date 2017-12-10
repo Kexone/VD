@@ -170,11 +170,6 @@
     <ClInclude Include="syntheticDepth.h" />
     <ClInclude Include="utils.h" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\volume\volume\volume\volume.vcxproj">
-      <Project>{653b8c36-addb-4004-b5c7-34e4b9604007}</Project>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>

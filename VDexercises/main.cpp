@@ -4,6 +4,7 @@
 #include "exercise4.h"
 #include "exercise5.h"
 #include <opencv/cv.hpp>
+#include "exercise6.h"
 
 void printExercise(int numb)
 {
@@ -50,6 +51,9 @@ int main()
 			printExercise(a);
 			Exercise5().run();
 			break;
+		case 6:
+			printExercise(a);
+			Exercise6().run();
 		case 77:
 			printExercise(a);
 			printExercise(1);
@@ -57,7 +61,7 @@ int main()
 			printExercise(3);
 			Exercise3().run();
 			printExercise(4);
-			Exercise3().run();
+			Exercise4().run();
 			break;
 		case 0:
 			stillRunning = false;

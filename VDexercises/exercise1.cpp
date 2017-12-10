@@ -36,12 +36,12 @@ void Exercise1::run(int i)
 	}
 	else
 	{
-		FILE* file;
-		std::cout << "som tu";
-		Py_Initialize();
-		file = fopen("./data/cv2.py", "r");
-		PyRun_SimpleFile(file, "cv2.py");
-		Py_Finalize();
+		//FILE* file;
+		//std::cout << "som tu";
+		//Py_Initialize();
+		//file = fopen("./data/cv2.py", "r");
+		//PyRun_SimpleFile(file, "cv2.py");
+		//Py_Finalize();
 	}
 	gp.setCmds(commands);
 	gp.showPlot();
