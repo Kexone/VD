@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\exercises">
+      <UniqueIdentifier>{d0475064-b462-458f-a26d-84c815dea6f0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\exercises">
+      <UniqueIdentifier>{31b443fc-4238-40c3-ac76-6b7da5b8d4c0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise3.cpp">
+      <Filter>Source Files\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise4.cpp">
+      <Filter>Source Files\exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="exercise6.cpp">
+      <Filter>Source Files\exercises</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="exercises.h">
+      <Filter>Header Files\exercises</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise3.h">
+      <Filter>Header Files\exercises</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise4.h">
+      <Filter>Header Files\exercises</Filter>
+    </ClInclude>
+    <ClInclude Include="gnuPlot.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="syntheticDepth.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="exercise6.h">
+      <Filter>Header Files\exercises</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
