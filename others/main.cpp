@@ -16,7 +16,7 @@ void printExercise(int numb)
 
 int main()
 {
-	Exercise4().run();
+	Exercise6().run();
 	//return 0;
 	bool stillRunning = false;
 	while (stillRunning){ 

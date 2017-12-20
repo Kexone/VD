@@ -1,16 +1,9 @@
 #include "exercise6.h"
-#include "syntheticDepth.h"
-#include <opencv2/core/persistence.hpp>
-#include <iomanip>
-#include <sstream>
-#include <opencv/cv.hpp>
-
-std::vector<cv::Mat> depths;
-SyntheticDepth sd;
 
 
-void computeDepthMap(cv::Mat depthM);
-void loadSyntheticDepth()
+
+
+void Exercise6::loadSyntheticDepth()
 {
 	std::ostringstream ss;
 	cv::FileStorage fs;
@@ -28,7 +21,7 @@ void loadSyntheticDepth()
 	fs.release();
 }
 
-void loadDataDepthMaps()
+void Exercise6::loadDataDepthMaps()
 {
 	std::ostringstream ss;
 	cv::FileStorage fs;
@@ -47,31 +40,99 @@ void loadDataDepthMaps()
 
 void Exercise6::run(int i)
 {
+	cv::Mat normals, quantized;
 	loadDataDepthMaps();
-	loadSyntheticDepth();
-	cv::imshow("sdepth", sd.data);
+	//cv::imshow("sdepth", sd.data);
 	for (int i = 0; i < depths.size(); i++)
 	{
-		computeDepthMap(depths[i]);
+		calcNormals(depths[i], normals,quantized,3);
+		cv::imshow("Normals", depths[i]);
 		cv::waitKey(15);
 	}
+
+	loadSyntheticDepth();
+	calcNormals(sd.data, normals, quantized, 3);
+	cv::imshow("Normals", normals);
 	cv::waitKey(0);	
 }
 
-void computeDepthMap(cv::Mat depthM)
+void Exercise6::calcNormals(cv::Mat &depth, cv::Mat &normals, cv::Mat &quant, int patchSize)
 {
 	int patch = 0;
-	
-	cv::Mat norml(depthM.size(), CV_32FC3);
+	int offset = patchSize / 2;
 
-	float Ex = 0, Ey = 0, Ex2 = 0, Ey2 = 0;
+	normals = cv::Mat::zeros(depth.size(), CV_32FC3);
+	quant = cv::Mat::zeros(depth.size(), CV_8UC1);
+	cv::Size halfSize((int)depth.cols / 2, (int)depth.rows / 2);
 
-	for(int x = 0; x < norml.rows; x++ )
+	for(uint y = 0; y < depth.rows - offset; y++)
 	{
-		for (int y = 0; y < norml.cols; y++)
+		for( uint x = 0; x < depth.cols - offset; x++)
 		{
-			float depth = depthM.at<float>(x, y);
-			cv::Vec3f xyz;// = xyz(x, norml.rows / 2, y, norml.cols / 2, depth);
+			float Ex = 0, Ey = 0, Ez = 0;
+			int nValid = patchSize * patchSize;
+
+			for( uint yy = y - offset; yy < y+offset+1; yy++)
+			{
+				for (uint xx = x - offset; xx < x+offset+1; xx++)
+				{
+					float pix = depth.at<float>(yy, xx);
+
+					if( pix <= 0 )
+					{
+						nValid--;
+						continue;
+					}
+
+					cv::Vec3f vec = getXYZ_vector(xx, yy, halfSize, pix);
+
+					Ex += vec[0];
+					Ey += vec[1];
+					Ez += vec[2];
+				}
+			}
+
+			if (nValid <= 0) continue;
+
+			float normPix = 1.f / nValid;
+			Ex *= normPix;
+			Ey *= normPix;
+			Ez *= normPix;
+
+			cv::Mat covarMat = cv::Mat::zeros(3, 3, CV_32FC1);
+			for(uint yy = y - offset; yy < y+offset+1; yy++)
+			{
+				for(uint xx = x - offset; xx < x+offset-1;xx++)
+				{
+					float pix = depth.at<float>(yy, xx);
+					if (pix <= 0) continue;
+
+					cv::Vec3f vec = getXYZ_vector(xx, yy, halfSize, pix);
+
+					covarMat.at<float>(0, 0) += (vec[0] - Ex) * (vec[0] - Ex);
+					covarMat.at<float>(0, 1) += (vec[0] - Ex) * (vec[0] - Ex);
+					covarMat.at<float>(0, 2) += (vec[0] - Ex) * (vec[0] - Ex);
+
+					covarMat.at<float>(1, 0) += (vec[1] - Ey) * (vec[1] - Ey);
+					covarMat.at<float>(1, 1) += (vec[1] - Ey) * (vec[1] - Ey);
+					covarMat.at<float>(1, 2) += (vec[1] - Ey) * (vec[1] - Ey);
+					
+					covarMat.at<float>(1, 0) += (vec[2] - Ez) * (vec[2] - Ez);
+					covarMat.at<float>(1, 1) += (vec[2] - Ez) * (vec[2] - Ez);
+					covarMat.at<float>(1, 2) += (vec[2] - Ez) * (vec[2] - Ez);
+				}
+			}
+			covarMat *= normPix;
+			cv::Mat eigenVal, eigenVec;
+			cv::eigen(covarMat, eigenVal, eigenVec);
+			cv::Vec3f normal = eigenVec.row(2);
+
+			normals.at<cv::Vec3f>(y, x) = normal;
 		}
 	}
+}
+
+cv::Vec3f Exercise6::getXYZ_vector(int u, int v, cv::Size halfSize, float pixV, float f)
+{
+	return cv::Vec3f(((u - halfSize.width) * pixV) / f, -((-v + halfSize.height) * pixV) / f, pixV);
 }

@@ -122,7 +122,7 @@ void Exercise4::vizualizeData(cv::Mat &flowNorm, cv::Mat & matLines)
 		}
 	}
 	for(int i = 0; i < 50; i++) {
-		cv::Point2f mPoint = calcRungeKutta(flowNorm, _point,0.1);
+		cv::Point2f mPoint = calcRungeKutta(flowNorm, _point,0.01);
 
 		cv::line(matLines, _point * scale, mPoint * scale, cv::Scalar(255,255,250), 2, 4);
 	
