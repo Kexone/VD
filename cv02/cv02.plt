@@ -17,16 +17,16 @@ set xtics nomirror
 set ytics nomirror
 
 
-set title "Temperature Measurement Over Several Days" font "sans-Bold"
+set title "Average temperatures in Dublin (1955-2017)" font "sans-Bold"
 set xlabel "f [Hz]"
 set ylabel "Amplitude"
 
 #set key bottom left Left title "Probes:" enhanced font "sans-Italic" #reverse box
 
-set xrange [1935.1:2020.0]
-set yrange [-3:90.1]
+set xrange [0.0:0.5]
+set yrange [-0.1:0.4]
 
 set style line 1 lt rgb "#A00000" lw 2 pt 1
 
 
-plot "dataset.csv" using 1:2 title "Temps" with lines
+plot "dublin_temps_frequency.csv" using 1:2 title "Temps" with lines

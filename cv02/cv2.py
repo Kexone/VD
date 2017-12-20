@@ -10,8 +10,6 @@ import matplotlib.pyplot as plt
 import csv
 
 def column(matrix, i):
-    for row in range(2):
-        print (matrix[row])
     return [float(row[i]) for row in matrix]
 
 with open('dublin.csv', 'r') as csvfile:
@@ -66,7 +64,7 @@ def get2f(lst):
 
 
 N = 10
-samples = column(x, 0)[:3650]
+samples = column(x, 1)
 # samples = [math.sin(2*math.pi*x/N) for x in range(N)] # sampled data
 # samples = [1 for x in range(10)] # sampled data
 
@@ -74,17 +72,17 @@ N = len(samples) # number of samples
 D = range(N)
 y = [2*x for x in D]
 
-print("Samples")
-print2f(samples)
+#print("Samples")
+#print2f(samples)
 fsamples = [F(m, samples) for m in range(N)] # samples in frequency domain
-print("\nSamples in frequency domain")
-print2fc(fsamples)
+#print("\nSamples in frequency domain")
+#print2fc(fsamples)
 rsamples = [f(n, fsamples) for n in range(N)] # reconstructed samples
-print("\nReconstructed samples back in spatial domain")
-print2fc(rsamples)
-print("\nPower spectrum")
+#print("\nReconstructed samples back in spatial domain")
+#print2fc(rsamples)
+#print("\nPower spectrum")
 power = get2fl(p(fsamples))
-print(power)
+#print(power)
 
 # f = open('output.csv', 'w')
 # f.write(repr(power))
